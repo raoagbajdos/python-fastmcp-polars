@@ -1,0 +1,81 @@
+{
+  "sheet_name": "Life_Table",
+  "shape": [
+    101,
+    5
+  ],
+  "columns": [
+    "Age",
+    "Mortality_Rate_qx",
+    "Survival_Probability_px",
+    "Life_Expectancy",
+    "Population_Count"
+  ],
+  "dtypes": {
+    "Age": "Int64",
+    "Mortality_Rate_qx": "Float64",
+    "Survival_Probability_px": "Float64",
+    "Life_Expectancy": "Float64",
+    "Population_Count": "Int64"
+  },
+  "sample_data": [
+    {
+      "Age": 0,
+      "Mortality_Rate_qx": 0.006,
+      "Survival_Probability_px": 0.994,
+      "Life_Expectancy": 83.95,
+      "Population_Count": 93228
+    },
+    {
+      "Age": 1,
+      "Mortality_Rate_qx": 0.00051,
+      "Survival_Probability_px": 0.99949,
+      "Life_Expectancy": 85.69,
+      "Population_Count": 99602
+    },
+    {
+      "Age": 2,
+      "Mortality_Rate_qx": 0.00052,
+      "Survival_Probability_px": 0.99948,
+      "Life_Expectancy": 78.1,
+      "Population_Count": 71368
+    }
+  ],
+  "statistics": {
+    "Age": {
+      "type": "Int64",
+      "min": 0,
+      "max": 100,
+      "mean": 50.0,
+      "null_count": 0
+    },
+    "Mortality_Rate_qx": {
+      "type": "Float64",
+      "min": 0.00051,
+      "max": 0.409,
+      "mean": 0.08695445544554456,
+      "null_count": 0
+    },
+    "Survival_Probability_px": {
+      "type": "Float64",
+      "min": 0.591,
+      "max": 0.99949,
+      "mean": 0.9130455445544555,
+      "null_count": 0
+    },
+    "Life_Expectancy": {
+      "type": "Float64",
+      "min": 0.0,
+      "max": 85.69,
+      "mean": 36.46079207920791,
+      "null_count": 0
+    },
+    "Population_Count": {
+      "type": "Int64",
+      "min": 50176,
+      "max": 99875,
+      "mean": 75238.25742574257,
+      "null_count": 0
+    }
+  }
+}

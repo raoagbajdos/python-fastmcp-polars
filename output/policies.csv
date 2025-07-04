@@ -1,0 +1,1001 @@
+Policy_ID,Policy_Type,Issue_Date,Birth_Date,Age_at_Issue,Gender,Occupation_Class,Face_Amount,Annual_Premium,Policy_Status,Smoker_Status,Territory
+POL000001,Universal Life,2022-07-27,1981-01-20,41,M,Professional,561121,6779,Active,N,Rural
+POL000002,Universal Life,2022-01-01,1970-04-11,51,F,Skilled,197659,3875,Lapsed,N,Suburban
+POL000003,Annuity,2020-11-10,1995-12-27,24,F,Professional,671391,4513,Paid-up,N,Rural
+POL000004,Whole Life,2020-07-04,1954-01-16,66,F,Skilled,591286,6958,Lapsed,N,Urban
+POL000005,Universal Life,2020-06-11,1997-06-01,23,M,Skilled,803817,5992,Lapsed,N,Urban
+POL000006,Whole Life,2022-07-15,1973-10-16,48,F,Professional,852263,5074,Active,Y,Urban
+POL000007,Annuity,2020-02-13,1968-11-10,51,M,Professional,53065,5094,Paid-up,Y,Rural
+POL000008,Endowment,2022-08-08,1997-04-28,25,F,Skilled,788241,2809,Active,N,Urban
+POL000009,Universal Life,2021-06-17,1968-05-27,53,F,Administrative,590791,2207,Surrendered,N,Urban
+POL000010,Term Life,2023-04-17,1992-07-29,30,F,Professional,177915,6672,Active,N,Suburban
+POL000011,Annuity,2021-11-08,1956-02-26,65,F,Administrative,866251,8911,Surrendered,N,Urban
+POL000012,Term Life,2022-09-01,1994-12-26,27,F,Administrative,68373,9710,Lapsed,Y,Rural
+POL000013,Endowment,2023-08-05,1998-03-10,25,F,Semi-skilled,166437,8326,Surrendered,Y,Suburban
+POL000014,Annuity,2021-12-18,1967-05-02,54,M,Hazardous,538776,6576,Active,Y,Rural
+POL000015,Term Life,2022-02-20,1957-12-13,64,M,Skilled,177175,5682,Surrendered,N,Suburban
+POL000016,Universal Life,2023-12-07,1970-03-13,53,M,Administrative,819702,4979,Active,N,Rural
+POL000017,Term Life,2022-11-02,1979-05-14,43,F,Professional,478958,1651,Surrendered,N,Rural
+POL000018,Universal Life,2020-08-09,1978-06-29,42,F,Administrative,783186,9672,Lapsed,N,Rural
+POL000019,Endowment,2022-03-22,1957-05-07,64,M,Administrative,425984,2720,Surrendered,N,Rural
+POL000020,Universal Life,2023-05-10,1972-02-19,51,M,Professional,214693,4025,Paid-up,N,Rural
+POL000021,Universal Life,2023-03-28,1983-05-01,39,M,Professional,371641,6335,Lapsed,Y,Urban
+POL000022,Annuity,2022-06-02,1973-05-05,49,F,Semi-skilled,253227,8150,Paid-up,N,Rural
+POL000023,Whole Life,2021-12-27,1961-12-17,60,M,Administrative,856834,1236,Paid-up,Y,Suburban
+POL000024,Term Life,2022-01-30,1991-04-22,30,F,Professional,447037,8050,Paid-up,Y,Rural
+POL000025,Annuity,2022-04-18,2004-03-15,18,M,Skilled,236091,7962,Paid-up,N,Rural
+POL000026,Whole Life,2023-10-18,1969-08-21,54,F,Semi-skilled,143093,9310,Lapsed,Y,Urban
+POL000027,Term Life,2022-10-08,1956-08-01,66,F,Skilled,464687,9294,Surrendered,Y,Rural
+POL000028,Term Life,2023-01-14,1957-08-03,65,M,Administrative,874770,7860,Paid-up,N,Urban
+POL000029,Universal Life,2022-04-03,1999-03-28,23,M,Hazardous,696327,1188,Paid-up,N,Urban
+POL000030,Universal Life,2023-04-16,2002-02-18,21,F,Hazardous,119369,3922,Surrendered,Y,Rural
+POL000031,Term Life,2021-11-27,1981-10-29,40,F,Skilled,969752,6924,Surrendered,N,Rural
+POL000032,Universal Life,2021-05-04,1981-09-15,39,M,Skilled,344053,9119,Active,Y,Rural
+POL000033,Whole Life,2023-01-09,1960-11-26,62,F,Professional,650575,8379,Active,N,Rural
+POL000034,Endowment,2020-09-27,1997-04-07,23,M,Professional,225741,6755,Active,Y,Suburban
+POL000035,Term Life,2022-11-25,1957-10-05,65,M,Skilled,345055,2573,Lapsed,Y,Rural
+POL000036,Universal Life,2023-08-15,1959-01-19,64,F,Hazardous,53773,5659,Lapsed,N,Rural
+POL000037,Universal Life,2023-08-03,1986-07-01,37,F,Administrative,254879,3984,Active,Y,Suburban
+POL000038,Endowment,2021-09-08,2002-07-25,19,F,Professional,526574,9494,Active,N,Urban
+POL000039,Whole Life,2022-07-11,1982-10-15,39,F,Hazardous,652414,4405,Lapsed,N,Urban
+POL000040,Term Life,2023-12-27,1960-08-01,63,M,Skilled,502486,6204,Active,Y,Suburban
+POL000041,Whole Life,2020-11-16,2000-07-22,20,M,Semi-skilled,455897,8901,Paid-up,Y,Suburban
+POL000042,Endowment,2022-01-06,1959-10-10,62,F,Skilled,498388,3230,Paid-up,N,Urban
+POL000043,Annuity,2022-10-21,1971-05-18,51,F,Semi-skilled,868433,1022,Paid-up,Y,Rural
+POL000044,Universal Life,2021-09-18,1993-08-12,28,F,Professional,415711,9940,Active,N,Suburban
+POL000045,Universal Life,2022-05-12,1962-12-21,59,F,Administrative,748137,2372,Surrendered,Y,Rural
+POL000046,Annuity,2021-05-25,1998-10-08,22,F,Administrative,213647,3334,Lapsed,Y,Urban
+POL000047,Annuity,2020-04-01,1950-11-10,69,F,Professional,77529,548,Paid-up,N,Suburban
+POL000048,Universal Life,2020-10-05,1951-02-26,69,F,Professional,312731,4940,Active,N,Urban
+POL000049,Endowment,2022-12-25,1965-12-04,57,F,Professional,522094,1852,Lapsed,Y,Suburban
+POL000050,Annuity,2023-01-13,1999-05-05,23,F,Administrative,961549,2352,Active,N,Rural
+POL000051,Annuity,2023-11-22,1975-04-01,48,F,Professional,858232,9707,Surrendered,Y,Urban
+POL000052,Whole Life,2023-07-03,1997-12-30,25,M,Skilled,996909,9238,Paid-up,N,Rural
+POL000053,Annuity,2020-09-10,1955-07-31,65,F,Professional,423452,4602,Paid-up,N,Suburban
+POL000054,Endowment,2023-02-28,1989-06-28,33,M,Administrative,149382,6523,Active,Y,Rural
+POL000055,Annuity,2020-04-28,1976-01-03,44,M,Administrative,246114,1707,Lapsed,Y,Suburban
+POL000056,Whole Life,2020-04-24,1953-08-29,66,M,Semi-skilled,343317,1317,Paid-up,Y,Urban
+POL000057,Annuity,2022-08-09,1973-01-17,49,M,Professional,649570,8937,Lapsed,Y,Suburban
+POL000058,Endowment,2023-02-01,1984-05-30,38,M,Professional,108667,8056,Surrendered,N,Suburban
+POL000059,Annuity,2023-07-01,2005-01-04,18,F,Administrative,853112,7943,Paid-up,Y,Urban
+POL000060,Whole Life,2020-06-11,1982-05-24,38,M,Skilled,120154,6387,Surrendered,Y,Suburban
+POL000061,Universal Life,2023-12-19,2003-07-16,20,M,Hazardous,510852,9919,Lapsed,Y,Urban
+POL000062,Endowment,2023-07-05,1992-10-24,30,M,Semi-skilled,368307,1160,Paid-up,Y,Suburban
+POL000063,Annuity,2021-07-14,1973-07-08,48,F,Skilled,973241,5361,Lapsed,Y,Suburban
+POL000064,Annuity,2022-06-09,1980-06-13,42,F,Administrative,684050,8689,Paid-up,Y,Suburban
+POL000065,Whole Life,2022-11-26,1972-11-01,50,M,Semi-skilled,242594,726,Lapsed,N,Rural
+POL000066,Annuity,2023-04-20,1983-06-20,39,F,Administrative,356479,4519,Paid-up,N,Urban
+POL000067,Annuity,2021-01-17,1978-08-20,42,M,Professional,912613,3250,Paid-up,N,Urban
+POL000068,Endowment,2021-02-27,1955-10-11,65,F,Skilled,149849,3241,Active,Y,Rural
+POL000069,Annuity,2023-12-09,1998-11-04,25,M,Professional,743423,5383,Active,Y,Urban
+POL000070,Whole Life,2023-12-10,1984-08-27,39,M,Administrative,571872,1377,Active,Y,Suburban
+POL000071,Whole Life,2022-07-16,1960-12-18,61,M,Semi-skilled,822236,9326,Paid-up,N,Urban
+POL000072,Term Life,2020-02-12,1952-02-19,68,M,Hazardous,452360,3229,Paid-up,N,Suburban
+POL000073,Endowment,2021-05-29,1975-02-28,46,F,Administrative,430264,6123,Surrendered,Y,Urban
+POL000074,Term Life,2023-03-04,1972-07-27,50,F,Hazardous,350478,9038,Surrendered,N,Rural
+POL000075,Universal Life,2021-08-13,1957-11-30,63,F,Skilled,180062,6809,Active,Y,Rural
+POL000076,Whole Life,2020-04-12,1973-05-18,46,F,Professional,540544,8768,Paid-up,Y,Urban
+POL000077,Term Life,2022-09-19,1965-01-02,57,M,Professional,873359,8525,Surrendered,Y,Rural
+POL000078,Universal Life,2020-05-04,1970-10-22,49,F,Skilled,419242,8908,Paid-up,N,Urban
+POL000079,Universal Life,2022-09-19,2003-05-20,19,F,Skilled,979643,9998,Surrendered,Y,Rural
+POL000080,Whole Life,2020-02-08,2000-03-15,19,M,Skilled,526877,1659,Paid-up,Y,Urban
+POL000081,Annuity,2021-02-26,1992-07-10,28,M,Skilled,783959,3511,Surrendered,N,Rural
+POL000082,Endowment,2023-07-23,2000-06-20,23,F,Professional,263018,5131,Active,N,Suburban
+POL000083,Whole Life,2023-03-07,1970-12-03,52,F,Professional,961911,8758,Paid-up,Y,Suburban
+POL000084,Term Life,2020-09-02,1971-04-28,49,M,Skilled,509204,2579,Lapsed,Y,Rural
+POL000085,Term Life,2021-06-28,1960-06-27,61,M,Semi-skilled,259187,637,Active,N,Suburban
+POL000086,Term Life,2022-11-27,1985-04-10,37,F,Professional,72303,2076,Surrendered,N,Suburban
+POL000087,Whole Life,2022-08-02,1993-01-18,29,M,Professional,89831,9246,Surrendered,Y,Suburban
+POL000088,Annuity,2023-07-25,1995-06-13,28,F,Skilled,449804,9564,Lapsed,N,Urban
+POL000089,Term Life,2020-02-26,1962-06-16,57,F,Skilled,661534,728,Paid-up,Y,Urban
+POL000090,Term Life,2021-04-13,1956-03-30,65,M,Professional,790615,1912,Surrendered,N,Urban
+POL000091,Universal Life,2022-03-17,1977-12-01,44,F,Semi-skilled,597513,5516,Active,Y,Rural
+POL000092,Universal Life,2022-12-12,2004-01-28,18,M,Administrative,283092,9273,Surrendered,Y,Rural
+POL000093,Annuity,2021-02-26,1961-08-01,59,M,Administrative,232193,7991,Surrendered,N,Rural
+POL000094,Universal Life,2023-08-09,1969-04-01,54,M,Semi-skilled,322830,3274,Paid-up,N,Suburban
+POL000095,Whole Life,2022-04-08,1985-12-01,36,F,Hazardous,668679,5523,Lapsed,N,Urban
+POL000096,Endowment,2021-02-01,1989-07-03,31,F,Skilled,851667,5937,Active,N,Urban
+POL000097,Annuity,2023-11-15,1987-10-29,36,M,Skilled,103359,7463,Surrendered,N,Urban
+POL000098,Term Life,2022-01-20,1958-08-30,63,M,Skilled,557765,6955,Surrendered,Y,Rural
+POL000099,Universal Life,2021-10-06,1995-03-18,26,M,Semi-skilled,200104,7874,Lapsed,Y,Rural
+POL000100,Annuity,2020-11-18,1978-01-02,42,F,Professional,584337,4175,Surrendered,N,Urban
+POL000101,Annuity,2023-05-01,1980-09-13,42,M,Administrative,911989,6623,Paid-up,N,Rural
+POL000102,Whole Life,2020-06-21,2001-10-05,18,M,Professional,831625,4290,Active,Y,Urban
+POL000103,Term Life,2020-03-10,1993-07-11,26,M,Administrative,398441,2158,Surrendered,Y,Suburban
+POL000104,Endowment,2020-11-05,1970-08-21,50,F,Professional,266103,5229,Lapsed,N,Urban
+POL000105,Term Life,2023-11-05,1964-10-19,59,F,Professional,76370,4336,Surrendered,Y,Rural
+POL000106,Whole Life,2020-02-19,1966-11-02,53,F,Skilled,542964,8000,Surrendered,N,Suburban
+POL000107,Term Life,2021-06-04,1982-08-24,38,M,Semi-skilled,555917,8546,Surrendered,Y,Urban
+POL000108,Annuity,2022-03-23,1969-06-22,52,M,Administrative,402967,4114,Lapsed,Y,Suburban
+POL000109,Annuity,2022-02-14,2003-04-11,18,F,Semi-skilled,370086,1536,Paid-up,N,Urban
+POL000110,Whole Life,2021-12-04,1979-03-25,42,M,Hazardous,155569,2939,Active,Y,Suburban
+POL000111,Universal Life,2020-12-19,1983-01-25,37,M,Semi-skilled,809601,4285,Paid-up,Y,Rural
+POL000112,Whole Life,2022-11-05,1978-06-20,44,F,Skilled,983652,4897,Active,Y,Suburban
+POL000113,Universal Life,2020-10-27,1994-05-09,26,F,Skilled,732488,8722,Lapsed,N,Rural
+POL000114,Whole Life,2023-06-14,1995-05-17,28,M,Administrative,314497,5695,Surrendered,N,Suburban
+POL000115,Universal Life,2022-11-22,1988-01-24,34,F,Hazardous,639157,4440,Surrendered,N,Rural
+POL000116,Whole Life,2022-02-05,1989-10-28,32,F,Administrative,949262,4503,Paid-up,N,Suburban
+POL000117,Universal Life,2020-01-22,2001-04-02,18,F,Administrative,488785,1361,Surrendered,N,Rural
+POL000118,Endowment,2022-02-08,1995-04-08,26,M,Professional,601947,2060,Lapsed,N,Urban
+POL000119,Endowment,2020-05-18,1995-01-23,25,M,Administrative,702089,9617,Paid-up,N,Urban
+POL000120,Universal Life,2022-02-03,1968-01-12,54,M,Administrative,666868,4548,Lapsed,Y,Urban
+POL000121,Term Life,2021-06-25,1953-02-04,68,M,Hazardous,917865,2126,Active,N,Rural
+POL000122,Endowment,2021-05-11,2000-07-06,20,M,Professional,268974,9555,Lapsed,N,Suburban
+POL000123,Whole Life,2020-01-28,1968-12-22,51,M,Semi-skilled,124191,2583,Lapsed,N,Rural
+POL000124,Annuity,2023-01-22,1956-08-10,66,M,Semi-skilled,415588,3032,Paid-up,Y,Urban
+POL000125,Term Life,2022-11-27,1980-02-05,42,F,Professional,906404,4832,Active,N,Suburban
+POL000126,Universal Life,2023-10-06,1962-02-15,61,M,Professional,865897,6031,Paid-up,Y,Urban
+POL000127,Endowment,2020-01-15,1986-07-08,33,F,Hazardous,246124,3235,Lapsed,Y,Rural
+POL000128,Term Life,2022-01-24,1994-04-10,27,M,Semi-skilled,222581,8784,Lapsed,N,Suburban
+POL000129,Annuity,2023-06-04,1991-05-12,32,F,Hazardous,917606,2386,Active,N,Rural
+POL000130,Universal Life,2021-07-05,1951-10-21,69,F,Semi-skilled,190641,2404,Paid-up,Y,Urban
+POL000131,Term Life,2023-06-24,1969-05-26,54,M,Hazardous,935178,2637,Lapsed,N,Urban
+POL000132,Universal Life,2022-12-16,1987-12-24,35,F,Professional,540400,2705,Active,Y,Urban
+POL000133,Term Life,2022-07-25,1954-12-31,67,F,Skilled,109602,4834,Active,Y,Rural
+POL000134,Annuity,2021-02-01,1959-07-29,61,F,Semi-skilled,709242,7591,Surrendered,Y,Suburban
+POL000135,Annuity,2020-09-09,1952-10-19,67,F,Semi-skilled,644536,9297,Active,N,Suburban
+POL000136,Term Life,2020-07-20,1957-02-11,63,F,Skilled,324963,9234,Paid-up,N,Urban
+POL000137,Endowment,2022-06-02,1999-01-06,23,M,Semi-skilled,873495,9978,Surrendered,Y,Suburban
+POL000138,Endowment,2023-02-20,1986-07-27,36,F,Skilled,696795,9020,Surrendered,N,Rural
+POL000139,Whole Life,2023-10-27,1979-04-24,44,M,Skilled,490222,8624,Active,Y,Suburban
+POL000140,Term Life,2023-07-30,1959-09-20,63,F,Semi-skilled,373594,2105,Paid-up,Y,Suburban
+POL000141,Endowment,2021-09-27,1995-10-14,25,M,Administrative,647791,634,Surrendered,Y,Suburban
+POL000142,Term Life,2022-07-12,1967-02-07,55,F,Professional,268585,7175,Active,N,Urban
+POL000143,Whole Life,2023-03-05,1999-06-14,23,M,Skilled,480627,3403,Lapsed,N,Urban
+POL000144,Term Life,2021-01-26,1989-03-10,31,F,Administrative,742580,5610,Paid-up,Y,Rural
+POL000145,Endowment,2020-11-06,2000-11-13,19,F,Hazardous,978129,7151,Active,N,Urban
+POL000146,Endowment,2020-05-20,1955-03-27,65,F,Hazardous,491412,3323,Active,N,Urban
+POL000147,Endowment,2023-05-18,1977-09-27,45,M,Administrative,609283,7625,Surrendered,Y,Urban
+POL000148,Annuity,2021-09-13,1998-11-11,22,F,Administrative,984540,7235,Lapsed,N,Suburban
+POL000149,Annuity,2020-11-01,1953-10-21,67,M,Administrative,415212,1114,Lapsed,Y,Rural
+POL000150,Whole Life,2023-03-12,1993-11-29,29,M,Skilled,516625,7286,Lapsed,N,Rural
+POL000151,Endowment,2023-10-16,2004-08-07,19,M,Professional,693122,5265,Lapsed,N,Urban
+POL000152,Endowment,2023-09-03,1982-10-03,40,M,Professional,903025,8792,Active,Y,Urban
+POL000153,Whole Life,2022-01-07,1967-02-03,54,M,Administrative,696166,8772,Surrendered,Y,Rural
+POL000154,Whole Life,2020-12-28,2000-06-28,20,M,Professional,712690,3109,Paid-up,N,Urban
+POL000155,Endowment,2023-06-02,1958-02-25,65,M,Professional,151362,2501,Lapsed,N,Rural
+POL000156,Annuity,2021-02-26,1971-10-08,49,F,Administrative,499411,6444,Surrendered,Y,Suburban
+POL000157,Annuity,2023-10-10,1959-05-24,64,F,Professional,580469,8444,Active,Y,Urban
+POL000158,Term Life,2020-12-19,1987-07-23,33,F,Professional,353983,1332,Active,Y,Rural
+POL000159,Term Life,2020-04-16,1998-11-21,21,M,Semi-skilled,514388,913,Lapsed,N,Rural
+POL000160,Universal Life,2020-09-18,1981-04-03,39,M,Semi-skilled,120480,9856,Paid-up,Y,Suburban
+POL000161,Universal Life,2021-04-09,1998-07-18,22,F,Skilled,726429,7841,Active,N,Urban
+POL000162,Annuity,2022-01-23,1967-01-06,55,F,Skilled,583586,4509,Surrendered,N,Rural
+POL000163,Universal Life,2020-01-17,1963-10-08,56,M,Skilled,381800,1350,Active,N,Urban
+POL000164,Endowment,2020-12-17,1990-04-27,30,M,Skilled,118281,7850,Paid-up,N,Suburban
+POL000165,Universal Life,2022-01-08,1990-07-25,31,F,Skilled,151516,5922,Surrendered,N,Suburban
+POL000166,Term Life,2022-11-04,1983-04-22,39,F,Skilled,655503,4678,Surrendered,N,Urban
+POL000167,Universal Life,2021-10-31,1967-01-04,54,F,Semi-skilled,991220,6734,Paid-up,N,Rural
+POL000168,Whole Life,2022-10-27,1980-01-22,42,M,Professional,793528,4732,Surrendered,N,Rural
+POL000169,Annuity,2023-12-21,1958-04-29,65,M,Professional,720912,1035,Paid-up,Y,Rural
+POL000170,Annuity,2020-03-09,1962-10-29,57,M,Administrative,975135,2100,Surrendered,N,Urban
+POL000171,Whole Life,2023-09-10,1980-10-07,42,M,Professional,922778,2517,Lapsed,Y,Suburban
+POL000172,Endowment,2021-04-30,1963-10-14,57,F,Professional,102402,7089,Active,Y,Rural
+POL000173,Universal Life,2020-07-24,1981-03-19,39,M,Skilled,829853,6857,Surrendered,N,Rural
+POL000174,Whole Life,2023-04-27,1974-06-08,48,M,Professional,239365,3665,Paid-up,N,Suburban
+POL000175,Term Life,2023-04-27,1958-06-30,64,M,Semi-skilled,417968,1050,Lapsed,N,Urban
+POL000176,Whole Life,2022-09-24,1963-05-25,59,F,Hazardous,237153,7493,Lapsed,N,Suburban
+POL000177,Whole Life,2021-05-22,1997-06-28,23,M,Professional,394607,3437,Lapsed,N,Rural
+POL000178,Whole Life,2022-10-06,1988-01-21,34,F,Administrative,123617,7857,Active,Y,Urban
+POL000179,Annuity,2022-02-19,1989-12-09,32,F,Semi-skilled,964138,1375,Active,N,Urban
+POL000180,Annuity,2022-03-16,1983-08-23,38,M,Administrative,610391,9133,Lapsed,Y,Suburban
+POL000181,Annuity,2021-05-29,1963-10-24,57,F,Semi-skilled,721519,840,Active,N,Suburban
+POL000182,Whole Life,2020-01-09,1980-10-13,39,F,Hazardous,753056,3446,Surrendered,Y,Suburban
+POL000183,Whole Life,2022-02-25,1956-01-30,66,F,Administrative,932237,7746,Surrendered,N,Suburban
+POL000184,Endowment,2022-10-20,1968-06-04,54,M,Skilled,829534,2254,Paid-up,N,Rural
+POL000185,Annuity,2020-05-10,1972-04-06,48,M,Professional,392901,8081,Lapsed,N,Rural
+POL000186,Term Life,2021-01-06,1983-03-29,37,M,Skilled,341539,6610,Paid-up,N,Rural
+POL000187,Endowment,2023-03-02,1988-03-13,34,M,Professional,972338,8362,Active,Y,Suburban
+POL000188,Annuity,2020-04-11,1978-07-17,41,F,Professional,963838,7393,Lapsed,N,Suburban
+POL000189,Whole Life,2021-06-18,1953-09-20,67,M,Hazardous,405009,7493,Active,Y,Rural
+POL000190,Term Life,2021-10-26,1992-08-19,29,F,Hazardous,564281,5749,Active,Y,Urban
+POL000191,Term Life,2023-06-23,1965-05-07,58,F,Administrative,321457,7753,Paid-up,Y,Rural
+POL000192,Whole Life,2020-10-20,1975-03-28,45,M,Semi-skilled,232306,8184,Paid-up,N,Suburban
+POL000193,Endowment,2020-09-20,1965-06-10,55,F,Semi-skilled,615466,4596,Active,Y,Suburban
+POL000194,Annuity,2020-09-05,1957-08-07,63,M,Administrative,914003,615,Lapsed,N,Urban
+POL000195,Annuity,2020-01-12,1994-11-08,25,F,Semi-skilled,264526,2239,Lapsed,Y,Urban
+POL000196,Whole Life,2021-05-18,2000-04-06,21,F,Skilled,525902,733,Paid-up,N,Rural
+POL000197,Universal Life,2022-09-08,1962-12-20,59,M,Administrative,744110,500,Lapsed,Y,Suburban
+POL000198,Annuity,2023-05-10,1965-09-03,57,M,Hazardous,355859,6688,Active,Y,Urban
+POL000199,Universal Life,2020-05-23,1983-11-06,36,F,Professional,391179,2815,Lapsed,N,Rural
+POL000200,Universal Life,2020-09-13,1983-04-08,37,F,Professional,858299,7948,Active,N,Urban
+POL000201,Term Life,2022-08-24,1995-10-21,26,M,Hazardous,107468,3872,Surrendered,N,Urban
+POL000202,Whole Life,2021-07-22,1984-12-14,36,M,Hazardous,366837,1641,Active,N,Rural
+POL000203,Universal Life,2023-01-30,1993-03-26,29,F,Professional,974782,9602,Lapsed,N,Rural
+POL000204,Term Life,2020-02-01,1994-07-11,25,M,Hazardous,300891,1842,Active,Y,Rural
+POL000205,Annuity,2022-06-24,1988-06-21,34,M,Professional,757756,5207,Surrendered,N,Suburban
+POL000206,Endowment,2022-10-01,1988-07-30,34,M,Skilled,89321,3142,Paid-up,Y,Urban
+POL000207,Term Life,2022-09-17,1988-10-25,33,M,Semi-skilled,679484,4250,Lapsed,Y,Urban
+POL000208,Term Life,2020-10-05,1973-01-10,47,F,Professional,405738,4694,Active,N,Urban
+POL000209,Term Life,2021-05-31,2003-01-22,18,M,Administrative,316970,1256,Active,N,Urban
+POL000210,Endowment,2022-11-30,1989-10-16,33,M,Professional,759041,3776,Active,N,Suburban
+POL000211,Term Life,2022-06-16,1998-02-03,24,M,Hazardous,146265,4131,Lapsed,Y,Urban
+POL000212,Term Life,2021-09-11,1953-04-06,68,F,Hazardous,451935,7465,Lapsed,Y,Suburban
+POL000213,Whole Life,2020-03-24,1965-04-06,55,F,Professional,881322,2739,Surrendered,Y,Rural
+POL000214,Endowment,2020-04-29,1992-09-11,27,M,Skilled,736382,701,Paid-up,Y,Rural
+POL000215,Annuity,2023-02-09,1987-03-05,35,M,Administrative,373149,3527,Lapsed,Y,Urban
+POL000216,Endowment,2021-09-12,1999-12-27,21,F,Professional,514627,7277,Lapsed,Y,Urban
+POL000217,Whole Life,2023-09-06,1969-04-10,54,F,Administrative,317517,3021,Surrendered,Y,Suburban
+POL000218,Annuity,2021-05-08,1963-09-16,57,F,Skilled,234309,6638,Active,N,Suburban
+POL000219,Whole Life,2023-08-31,1954-04-20,69,F,Hazardous,925371,8433,Lapsed,N,Urban
+POL000220,Whole Life,2021-11-01,1969-10-29,52,F,Administrative,434901,2203,Paid-up,Y,Suburban
+POL000221,Whole Life,2021-04-05,1986-03-03,35,M,Skilled,221127,1291,Paid-up,Y,Rural
+POL000222,Annuity,2021-09-22,1953-02-02,68,F,Professional,676176,4710,Lapsed,Y,Urban
+POL000223,Annuity,2022-10-10,1990-07-07,32,F,Skilled,385677,3912,Paid-up,Y,Rural
+POL000224,Whole Life,2020-07-11,1968-06-05,52,M,Semi-skilled,718810,7209,Surrendered,Y,Rural
+POL000225,Term Life,2023-06-14,1991-04-02,32,F,Administrative,852095,9894,Paid-up,Y,Rural
+POL000226,Annuity,2022-03-06,1964-08-17,57,M,Semi-skilled,994615,9718,Active,Y,Rural
+POL000227,Term Life,2023-07-27,1996-03-30,27,F,Semi-skilled,237047,3795,Lapsed,Y,Urban
+POL000228,Term Life,2022-10-26,1992-10-22,30,F,Skilled,634762,4826,Lapsed,Y,Suburban
+POL000229,Endowment,2020-10-08,1959-03-12,61,M,Hazardous,962669,6993,Paid-up,Y,Urban
+POL000230,Endowment,2021-10-17,1975-08-09,46,F,Hazardous,988134,7898,Paid-up,Y,Rural
+POL000231,Whole Life,2020-05-28,1952-03-30,68,M,Skilled,364450,3436,Surrendered,Y,Urban
+POL000232,Annuity,2022-06-30,1956-02-13,66,M,Administrative,62150,1765,Active,Y,Urban
+POL000233,Whole Life,2021-01-19,1992-11-01,28,F,Administrative,592321,2365,Active,Y,Rural
+POL000234,Annuity,2023-07-16,1965-12-11,57,F,Hazardous,204029,9447,Surrendered,N,Rural
+POL000235,Annuity,2021-01-16,1963-11-07,57,M,Semi-skilled,259837,3012,Lapsed,Y,Suburban
+POL000236,Term Life,2023-04-14,1995-12-30,27,F,Skilled,167520,9530,Surrendered,Y,Urban
+POL000237,Whole Life,2023-10-14,1963-01-16,60,F,Semi-skilled,747385,5804,Lapsed,N,Urban
+POL000238,Annuity,2022-11-21,1971-11-15,51,F,Semi-skilled,986061,740,Paid-up,Y,Urban
+POL000239,Annuity,2023-05-25,1994-09-10,28,F,Professional,494803,1457,Surrendered,N,Rural
+POL000240,Term Life,2020-05-18,1987-12-02,32,F,Semi-skilled,725740,3684,Surrendered,N,Rural
+POL000241,Term Life,2023-09-01,1984-02-27,39,F,Administrative,841228,8026,Paid-up,N,Rural
+POL000242,Whole Life,2023-01-14,1973-04-06,49,F,Professional,785567,2428,Lapsed,N,Urban
+POL000243,Term Life,2021-03-15,1981-11-24,39,F,Skilled,666628,8392,Surrendered,N,Suburban
+POL000244,Annuity,2022-08-31,1963-12-07,58,F,Administrative,57757,4514,Active,Y,Suburban
+POL000245,Annuity,2022-09-28,1978-01-25,44,M,Skilled,985689,5087,Paid-up,Y,Suburban
+POL000246,Whole Life,2022-02-08,1962-05-09,59,M,Hazardous,278937,3720,Active,Y,Suburban
+POL000247,Term Life,2022-06-17,1960-04-04,62,F,Hazardous,996417,6513,Active,Y,Rural
+POL000248,Annuity,2020-09-13,2002-09-12,18,M,Professional,769815,4106,Active,N,Suburban
+POL000249,Whole Life,2021-10-28,1991-11-29,29,M,Semi-skilled,415347,4455,Lapsed,Y,Urban
+POL000250,Term Life,2022-10-02,2004-07-08,18,F,Semi-skilled,315924,4120,Paid-up,Y,Rural
+POL000251,Endowment,2020-09-25,1970-01-25,50,M,Semi-skilled,147293,7986,Surrendered,Y,Rural
+POL000252,Term Life,2021-11-03,1965-06-26,56,M,Administrative,214870,3825,Active,N,Urban
+POL000253,Term Life,2021-04-28,1988-02-25,33,F,Semi-skilled,212490,9187,Surrendered,N,Suburban
+POL000254,Universal Life,2020-08-03,1963-08-11,57,F,Skilled,289457,2123,Active,Y,Suburban
+POL000255,Whole Life,2020-02-08,1997-11-05,22,M,Hazardous,442656,6119,Active,Y,Suburban
+POL000256,Term Life,2022-08-11,1958-12-23,63,F,Skilled,973036,4920,Paid-up,N,Suburban
+POL000257,Term Life,2021-12-14,1968-10-25,53,M,Skilled,107060,4703,Paid-up,N,Urban
+POL000258,Term Life,2020-12-17,1952-03-13,68,F,Hazardous,674587,3825,Active,N,Rural
+POL000259,Annuity,2022-01-26,1955-06-17,66,M,Professional,917015,8332,Surrendered,N,Rural
+POL000260,Term Life,2022-05-13,1995-11-29,26,M,Professional,807289,7526,Active,N,Rural
+POL000261,Whole Life,2023-10-02,1996-05-21,27,F,Administrative,497420,3324,Lapsed,Y,Suburban
+POL000262,Universal Life,2022-01-18,1952-04-11,69,M,Hazardous,60967,5903,Paid-up,N,Suburban
+POL000263,Annuity,2023-03-21,1980-01-25,43,F,Hazardous,676210,9576,Paid-up,N,Rural
+POL000264,Endowment,2023-04-08,1971-05-04,51,F,Skilled,599409,8158,Paid-up,N,Rural
+POL000265,Term Life,2022-09-11,1972-08-31,50,M,Skilled,619270,6639,Lapsed,Y,Rural
+POL000266,Endowment,2020-03-16,1959-09-14,60,F,Skilled,273253,5592,Lapsed,N,Suburban
+POL000267,Whole Life,2020-02-23,1981-11-18,38,M,Skilled,337931,4488,Lapsed,Y,Rural
+POL000268,Universal Life,2022-09-21,1966-05-25,56,F,Professional,921660,9679,Active,Y,Suburban
+POL000269,Whole Life,2023-10-31,1966-02-08,57,M,Administrative,191335,1120,Surrendered,N,Rural
+POL000270,Term Life,2023-12-30,1960-02-06,63,M,Administrative,891380,5413,Active,N,Rural
+POL000271,Universal Life,2021-10-13,1958-07-16,63,M,Administrative,619155,4883,Surrendered,Y,Suburban
+POL000272,Annuity,2021-04-07,1977-07-13,43,F,Skilled,961437,5898,Active,N,Suburban
+POL000273,Term Life,2021-03-26,1953-04-09,68,F,Hazardous,776074,8034,Lapsed,N,Urban
+POL000274,Whole Life,2023-05-04,1994-10-18,28,M,Professional,270381,8737,Active,Y,Suburban
+POL000275,Term Life,2020-07-23,1952-12-02,67,F,Administrative,544261,7660,Active,N,Suburban
+POL000276,Universal Life,2021-05-27,1952-04-25,69,M,Administrative,444191,8455,Lapsed,Y,Rural
+POL000277,Universal Life,2021-11-30,1975-08-12,46,F,Hazardous,90425,5341,Surrendered,N,Rural
+POL000278,Whole Life,2022-06-26,2001-12-15,20,M,Administrative,874923,7969,Lapsed,Y,Urban
+POL000279,Annuity,2020-09-30,1995-11-27,24,F,Skilled,506373,2941,Paid-up,N,Rural
+POL000280,Annuity,2020-08-04,1975-05-13,45,M,Semi-skilled,798347,2509,Active,Y,Suburban
+POL000281,Whole Life,2023-02-18,1960-12-26,62,F,Administrative,820829,1953,Paid-up,Y,Suburban
+POL000282,Whole Life,2021-11-16,1976-01-20,45,M,Hazardous,873523,4806,Active,N,Rural
+POL000283,Endowment,2021-05-29,1997-03-07,24,M,Professional,794325,2029,Surrendered,N,Rural
+POL000284,Term Life,2021-02-15,1972-03-02,48,F,Semi-skilled,205312,4821,Lapsed,Y,Urban
+POL000285,Whole Life,2020-08-10,1992-08-31,27,M,Administrative,717158,4553,Active,N,Suburban
+POL000286,Universal Life,2020-08-24,1965-03-01,55,F,Hazardous,986867,2849,Surrendered,Y,Urban
+POL000287,Annuity,2021-10-16,1964-09-05,57,F,Skilled,994377,514,Lapsed,Y,Urban
+POL000288,Universal Life,2021-08-03,1976-10-01,44,F,Semi-skilled,876631,9908,Paid-up,N,Rural
+POL000289,Universal Life,2021-07-12,1983-09-06,37,F,Skilled,169950,9997,Paid-up,Y,Suburban
+POL000290,Term Life,2023-03-21,2002-02-12,21,F,Administrative,561153,7734,Active,N,Suburban
+POL000291,Universal Life,2021-11-27,1989-12-28,31,M,Hazardous,646777,9436,Paid-up,N,Suburban
+POL000292,Universal Life,2021-04-16,1973-10-14,47,M,Skilled,460464,6020,Active,N,Urban
+POL000293,Whole Life,2022-11-21,1979-04-09,43,M,Professional,977814,7690,Paid-up,N,Rural
+POL000294,Annuity,2021-03-29,1995-12-10,25,F,Semi-skilled,914048,6041,Paid-up,Y,Rural
+POL000295,Endowment,2023-03-01,1993-07-15,29,F,Skilled,317539,1859,Paid-up,N,Rural
+POL000296,Whole Life,2023-08-22,1990-09-04,32,F,Professional,156594,641,Lapsed,N,Urban
+POL000297,Whole Life,2022-12-05,1967-02-15,55,M,Professional,927268,5127,Active,Y,Urban
+POL000298,Term Life,2022-05-28,1968-07-23,53,M,Professional,686731,4173,Lapsed,Y,Suburban
+POL000299,Term Life,2023-09-21,1985-06-19,38,M,Administrative,686917,8923,Surrendered,N,Suburban
+POL000300,Term Life,2021-03-26,2002-01-22,19,M,Professional,485906,8152,Active,N,Suburban
+POL000301,Whole Life,2022-05-05,1968-12-10,53,F,Hazardous,170473,2434,Active,Y,Suburban
+POL000302,Universal Life,2021-05-09,1974-12-12,46,F,Semi-skilled,839544,3671,Surrendered,N,Urban
+POL000303,Endowment,2023-12-04,1973-10-12,50,F,Semi-skilled,174255,7810,Paid-up,N,Rural
+POL000304,Whole Life,2021-09-15,2000-10-10,20,M,Semi-skilled,360655,3164,Paid-up,N,Urban
+POL000305,Endowment,2020-01-29,1977-08-17,42,M,Semi-skilled,82934,2711,Lapsed,N,Rural
+POL000306,Term Life,2022-04-21,1967-09-01,54,M,Skilled,657402,5121,Lapsed,N,Suburban
+POL000307,Whole Life,2023-12-17,1956-03-16,67,M,Semi-skilled,936415,7421,Active,N,Urban
+POL000308,Annuity,2023-01-08,1992-02-12,30,F,Skilled,753806,1574,Surrendered,Y,Urban
+POL000309,Whole Life,2021-12-17,1956-10-18,65,F,Skilled,591887,4800,Surrendered,N,Rural
+POL000310,Endowment,2023-05-02,1957-07-26,65,M,Skilled,558625,1358,Active,Y,Urban
+POL000311,Term Life,2023-02-06,1966-04-03,56,M,Skilled,570350,4334,Active,N,Suburban
+POL000312,Whole Life,2020-05-19,1995-11-28,24,M,Semi-skilled,316842,2322,Lapsed,N,Suburban
+POL000313,Term Life,2021-02-03,1964-03-07,56,F,Professional,62733,5071,Surrendered,Y,Rural
+POL000314,Endowment,2021-04-14,1999-01-18,22,F,Hazardous,611590,2847,Surrendered,N,Suburban
+POL000315,Universal Life,2023-12-19,2003-10-19,20,M,Hazardous,755607,7817,Surrendered,Y,Suburban
+POL000316,Universal Life,2021-07-15,1998-07-20,23,M,Professional,494610,6182,Active,N,Suburban
+POL000317,Universal Life,2022-12-08,2000-02-09,22,F,Hazardous,463269,5992,Paid-up,Y,Suburban
+POL000318,Annuity,2022-10-21,1979-08-27,43,M,Hazardous,376048,6317,Paid-up,Y,Suburban
+POL000319,Term Life,2023-10-17,1964-09-20,59,M,Semi-skilled,873620,2925,Lapsed,N,Rural
+POL000320,Annuity,2020-11-08,1989-01-09,31,M,Skilled,415827,3753,Surrendered,N,Urban
+POL000321,Term Life,2021-05-21,1957-08-26,63,M,Semi-skilled,631047,6251,Paid-up,Y,Suburban
+POL000322,Endowment,2022-08-13,1972-09-06,49,F,Hazardous,614695,8094,Paid-up,Y,Rural
+POL000323,Annuity,2020-06-22,1957-02-28,63,M,Hazardous,444918,6276,Surrendered,N,Urban
+POL000324,Term Life,2021-11-08,1987-09-10,34,F,Administrative,690662,3571,Surrendered,N,Suburban
+POL000325,Whole Life,2021-08-02,1958-02-08,63,M,Hazardous,615940,3823,Lapsed,Y,Urban
+POL000326,Endowment,2020-02-17,1997-03-20,22,F,Skilled,511913,6555,Lapsed,N,Urban
+POL000327,Universal Life,2021-12-19,1986-09-11,35,M,Semi-skilled,301511,3642,Surrendered,N,Urban
+POL000328,Universal Life,2023-02-14,1996-06-28,26,F,Administrative,897070,6476,Lapsed,N,Urban
+POL000329,Term Life,2022-02-16,1993-08-08,28,F,Hazardous,236760,9739,Paid-up,Y,Urban
+POL000330,Whole Life,2020-08-21,2001-11-15,18,F,Professional,462331,6696,Surrendered,Y,Urban
+POL000331,Term Life,2022-06-12,1970-08-10,51,F,Administrative,456068,8456,Lapsed,Y,Urban
+POL000332,Universal Life,2022-10-10,1995-01-09,27,M,Administrative,534755,7603,Lapsed,N,Suburban
+POL000333,Term Life,2021-04-30,1953-09-18,67,F,Professional,251904,5934,Lapsed,N,Suburban
+POL000334,Universal Life,2022-09-05,1973-06-12,49,M,Professional,339520,9167,Surrendered,Y,Urban
+POL000335,Endowment,2022-06-07,1990-04-21,32,M,Hazardous,862272,4731,Lapsed,N,Suburban
+POL000336,Term Life,2022-03-10,2002-07-28,19,M,Professional,770108,7921,Surrendered,Y,Urban
+POL000337,Term Life,2021-12-23,1966-08-01,55,M,Professional,566029,3722,Surrendered,N,Urban
+POL000338,Annuity,2021-08-26,1976-12-24,44,F,Hazardous,593081,3175,Lapsed,N,Suburban
+POL000339,Annuity,2023-10-26,1980-09-22,43,M,Semi-skilled,171155,2272,Surrendered,Y,Urban
+POL000340,Universal Life,2020-07-14,1997-09-14,22,F,Skilled,583298,8003,Active,N,Urban
+POL000341,Annuity,2023-11-25,1972-10-25,51,F,Skilled,404158,4997,Surrendered,Y,Urban
+POL000342,Whole Life,2021-09-12,1971-07-20,50,F,Skilled,54893,4049,Surrendered,Y,Urban
+POL000343,Annuity,2022-02-26,1998-07-04,23,M,Administrative,615897,1067,Lapsed,N,Rural
+POL000344,Annuity,2022-03-16,1991-08-14,30,M,Skilled,636711,7209,Active,N,Suburban
+POL000345,Term Life,2023-05-19,2004-06-09,18,M,Skilled,187758,9457,Surrendered,Y,Suburban
+POL000346,Universal Life,2021-12-21,1955-10-22,66,M,Administrative,547250,6669,Paid-up,Y,Suburban
+POL000347,Annuity,2021-04-24,1964-11-14,56,F,Semi-skilled,653933,3516,Lapsed,N,Rural
+POL000348,Whole Life,2020-08-24,1979-01-04,41,F,Semi-skilled,430950,3057,Paid-up,Y,Urban
+POL000349,Universal Life,2021-09-04,2003-07-25,18,F,Professional,74093,703,Active,Y,Urban
+POL000350,Term Life,2023-12-01,1997-10-26,26,F,Skilled,885210,6005,Lapsed,Y,Urban
+POL000351,Universal Life,2023-08-08,1994-09-20,28,M,Skilled,136544,9118,Surrendered,Y,Urban
+POL000352,Term Life,2022-03-26,1990-12-19,31,F,Professional,483560,1526,Lapsed,Y,Rural
+POL000353,Annuity,2022-09-09,1961-11-06,60,F,Administrative,748595,1272,Surrendered,N,Suburban
+POL000354,Term Life,2020-10-22,1960-09-26,60,F,Hazardous,588618,2642,Active,N,Suburban
+POL000355,Term Life,2022-06-02,1959-07-02,62,F,Hazardous,69294,4368,Paid-up,N,Rural
+POL000356,Annuity,2023-04-15,1961-04-19,62,M,Skilled,275102,8277,Lapsed,Y,Suburban
+POL000357,Universal Life,2021-10-02,1975-02-19,46,F,Administrative,347540,2312,Lapsed,Y,Suburban
+POL000358,Whole Life,2021-01-11,1971-12-10,49,F,Administrative,869033,6567,Paid-up,N,Rural
+POL000359,Endowment,2023-09-04,1979-05-29,44,M,Administrative,509249,9804,Lapsed,Y,Rural
+POL000360,Annuity,2021-02-26,1951-09-17,69,M,Professional,646155,9685,Paid-up,N,Suburban
+POL000361,Whole Life,2021-11-23,1992-11-11,29,F,Semi-skilled,902661,6971,Lapsed,Y,Rural
+POL000362,Annuity,2023-09-05,1991-07-02,32,M,Skilled,176256,7043,Paid-up,Y,Urban
+POL000363,Endowment,2020-09-14,1966-07-05,54,M,Semi-skilled,958722,8996,Lapsed,Y,Urban
+POL000364,Term Life,2020-08-21,1977-10-20,42,F,Skilled,174325,4900,Surrendered,Y,Urban
+POL000365,Endowment,2022-08-17,1956-04-08,66,F,Professional,809799,5320,Active,N,Suburban
+POL000366,Annuity,2021-03-30,1971-12-05,49,F,Professional,258462,3185,Lapsed,N,Urban
+POL000367,Universal Life,2022-08-17,1953-03-12,69,M,Semi-skilled,675388,6965,Paid-up,Y,Urban
+POL000368,Term Life,2022-12-27,1960-06-20,62,F,Hazardous,165942,3240,Surrendered,N,Urban
+POL000369,Endowment,2022-08-03,1997-10-06,24,M,Professional,180616,2694,Paid-up,N,Urban
+POL000370,Whole Life,2023-05-06,1996-07-05,26,F,Skilled,451406,815,Paid-up,Y,Urban
+POL000371,Annuity,2020-11-12,1967-06-26,53,F,Skilled,818856,6689,Lapsed,N,Rural
+POL000372,Endowment,2020-11-08,1961-12-25,58,M,Administrative,339269,2120,Lapsed,N,Suburban
+POL000373,Endowment,2023-11-20,2005-03-02,18,M,Hazardous,283864,4230,Surrendered,N,Rural
+POL000374,Endowment,2020-05-15,1989-01-19,31,M,Hazardous,531035,6012,Active,N,Suburban
+POL000375,Annuity,2023-11-13,1993-02-27,30,F,Hazardous,574252,2901,Surrendered,Y,Rural
+POL000376,Term Life,2022-04-09,1999-10-30,22,F,Administrative,363943,4929,Active,N,Urban
+POL000377,Annuity,2021-01-04,1997-05-04,23,F,Semi-skilled,128821,4303,Surrendered,Y,Rural
+POL000378,Endowment,2022-12-22,2003-01-22,19,M,Professional,301433,1204,Lapsed,Y,Rural
+POL000379,Universal Life,2021-06-08,1984-12-16,36,F,Professional,248531,5995,Surrendered,N,Urban
+POL000380,Endowment,2022-04-21,1987-04-21,35,F,Hazardous,56166,4599,Lapsed,Y,Rural
+POL000381,Whole Life,2023-11-27,1999-07-25,24,M,Administrative,460362,5971,Paid-up,Y,Urban
+POL000382,Whole Life,2022-01-06,1988-12-17,33,M,Hazardous,478593,3829,Paid-up,N,Urban
+POL000383,Universal Life,2022-08-15,2001-11-16,20,M,Professional,973755,801,Paid-up,Y,Rural
+POL000384,Term Life,2020-01-28,1994-04-05,25,F,Professional,647688,1621,Lapsed,Y,Urban
+POL000385,Term Life,2022-08-14,1983-09-28,38,F,Skilled,430054,3730,Active,N,Urban
+POL000386,Annuity,2021-07-10,1969-10-23,51,F,Hazardous,666349,2559,Surrendered,Y,Urban
+POL000387,Endowment,2023-08-19,1956-07-05,67,F,Semi-skilled,852554,5581,Paid-up,N,Suburban
+POL000388,Universal Life,2023-10-23,1964-06-13,59,M,Administrative,887027,4217,Lapsed,Y,Rural
+POL000389,Endowment,2023-04-24,1973-01-12,50,M,Semi-skilled,176351,1655,Surrendered,Y,Rural
+POL000390,Endowment,2021-10-20,1984-01-15,37,F,Skilled,653759,7239,Paid-up,Y,Urban
+POL000391,Term Life,2022-12-12,1981-01-13,41,M,Semi-skilled,484999,7955,Paid-up,N,Rural
+POL000392,Endowment,2020-05-16,1951-03-08,69,F,Hazardous,723718,3421,Lapsed,Y,Suburban
+POL000393,Annuity,2021-05-19,1964-04-28,57,F,Skilled,594305,6173,Paid-up,N,Urban
+POL000394,Annuity,2021-02-19,1988-09-20,32,M,Skilled,550067,9639,Lapsed,Y,Rural
+POL000395,Whole Life,2022-08-01,1961-11-06,60,M,Hazardous,928982,5338,Lapsed,N,Suburban
+POL000396,Whole Life,2022-08-12,1984-12-24,37,M,Skilled,349588,8325,Active,Y,Suburban
+POL000397,Annuity,2021-05-06,1955-12-09,65,M,Administrative,879387,7255,Surrendered,N,Urban
+POL000398,Endowment,2022-10-16,1978-12-11,43,F,Skilled,586113,775,Lapsed,N,Suburban
+POL000399,Annuity,2022-06-07,1999-04-21,23,M,Professional,531593,1539,Surrendered,N,Urban
+POL000400,Whole Life,2022-03-27,1983-11-19,38,M,Semi-skilled,57320,5848,Lapsed,N,Urban
+POL000401,Universal Life,2021-08-27,1979-04-27,42,F,Hazardous,292675,6362,Lapsed,Y,Rural
+POL000402,Universal Life,2021-07-13,1957-09-13,63,M,Semi-skilled,624659,5158,Active,N,Suburban
+POL000403,Term Life,2020-09-28,1953-05-12,67,F,Professional,769673,6745,Paid-up,N,Rural
+POL000404,Term Life,2023-10-30,1969-09-22,54,M,Professional,580017,5493,Active,N,Urban
+POL000405,Endowment,2023-04-14,1974-04-19,49,M,Administrative,237886,543,Lapsed,N,Suburban
+POL000406,Endowment,2021-09-04,1994-07-12,27,F,Semi-skilled,266582,8402,Active,Y,Suburban
+POL000407,Annuity,2021-09-28,1962-11-05,58,F,Semi-skilled,876774,5087,Paid-up,N,Urban
+POL000408,Whole Life,2021-06-10,1985-05-29,36,M,Skilled,738726,8494,Surrendered,Y,Rural
+POL000409,Whole Life,2023-07-26,1993-06-25,30,M,Skilled,414469,4096,Active,N,Suburban
+POL000410,Endowment,2022-07-18,1955-12-17,66,F,Semi-skilled,782558,8371,Lapsed,Y,Rural
+POL000411,Endowment,2020-12-30,2002-04-22,18,M,Semi-skilled,671835,8230,Paid-up,N,Suburban
+POL000412,Universal Life,2020-12-24,2000-07-23,20,F,Hazardous,920430,9586,Lapsed,N,Suburban
+POL000413,Universal Life,2021-12-15,1976-06-25,45,F,Skilled,328062,7359,Lapsed,Y,Suburban
+POL000414,Whole Life,2020-04-06,1970-09-01,49,M,Hazardous,433097,7981,Surrendered,N,Suburban
+POL000415,Endowment,2022-11-09,1969-09-02,53,F,Administrative,832544,9211,Lapsed,N,Urban
+POL000416,Annuity,2022-10-12,1977-12-04,44,F,Professional,734007,8419,Active,N,Suburban
+POL000417,Annuity,2022-12-01,2004-01-06,18,F,Skilled,767556,9514,Surrendered,Y,Urban
+POL000418,Term Life,2022-12-01,1975-08-27,47,M,Skilled,328115,6562,Lapsed,N,Rural
+POL000419,Endowment,2023-06-12,1958-10-20,64,F,Professional,64032,9948,Active,Y,Rural
+POL000420,Endowment,2022-07-29,1957-07-02,65,M,Professional,289390,1318,Lapsed,Y,Rural
+POL000421,Term Life,2020-03-05,1985-06-15,34,F,Professional,873082,8864,Active,Y,Urban
+POL000422,Annuity,2020-08-02,1975-07-07,45,F,Administrative,468207,7314,Lapsed,N,Rural
+POL000423,Annuity,2021-04-17,1953-06-11,67,M,Semi-skilled,380622,6199,Active,Y,Urban
+POL000424,Annuity,2022-11-21,1981-05-09,41,M,Hazardous,537247,2679,Surrendered,N,Rural
+POL000425,Term Life,2022-03-02,1982-06-23,39,F,Professional,570068,3003,Lapsed,N,Urban
+POL000426,Universal Life,2023-12-25,1958-08-19,65,F,Administrative,424363,5773,Paid-up,Y,Urban
+POL000427,Endowment,2022-10-17,1989-10-02,33,F,Hazardous,780401,4791,Lapsed,Y,Urban
+POL000428,Annuity,2020-05-19,1999-04-02,21,F,Hazardous,781778,8055,Surrendered,N,Rural
+POL000429,Annuity,2022-06-08,1993-12-07,28,M,Hazardous,409698,4516,Active,N,Suburban
+POL000430,Whole Life,2023-03-22,1980-09-30,42,M,Semi-skilled,805087,2507,Paid-up,Y,Rural
+POL000431,Whole Life,2020-11-24,1980-10-29,40,M,Professional,499680,8155,Paid-up,Y,Rural
+POL000432,Whole Life,2021-05-11,1995-09-28,25,M,Professional,448954,6939,Paid-up,N,Urban
+POL000433,Universal Life,2020-09-09,1999-08-23,21,M,Semi-skilled,944909,9417,Paid-up,N,Urban
+POL000434,Term Life,2021-06-29,1956-09-06,64,F,Semi-skilled,642500,5156,Lapsed,N,Suburban
+POL000435,Whole Life,2022-03-11,1989-03-09,33,M,Hazardous,389028,5317,Paid-up,N,Urban
+POL000436,Annuity,2021-01-24,1951-09-24,69,F,Professional,368977,2323,Paid-up,N,Urban
+POL000437,Term Life,2020-06-19,1970-03-26,50,M,Administrative,195136,9327,Surrendered,N,Urban
+POL000438,Endowment,2020-06-19,1991-03-04,29,M,Semi-skilled,603861,1638,Lapsed,Y,Suburban
+POL000439,Annuity,2020-08-25,1996-02-26,24,F,Professional,819141,1148,Surrendered,Y,Rural
+POL000440,Universal Life,2023-05-27,1980-08-10,42,F,Skilled,162598,9662,Lapsed,N,Suburban
+POL000441,Annuity,2021-12-26,1955-08-10,66,M,Administrative,314746,6502,Paid-up,Y,Urban
+POL000442,Whole Life,2023-05-05,1967-08-25,55,F,Professional,710850,7276,Surrendered,N,Suburban
+POL000443,Annuity,2022-11-21,1966-01-31,56,F,Skilled,450100,8408,Paid-up,Y,Urban
+POL000444,Annuity,2021-12-08,1996-02-05,25,M,Hazardous,159341,7133,Active,Y,Rural
+POL000445,Annuity,2021-02-05,1953-03-14,67,F,Professional,58241,8021,Paid-up,N,Urban
+POL000446,Universal Life,2021-05-23,1997-07-21,23,F,Administrative,876481,5593,Surrendered,Y,Urban
+POL000447,Endowment,2023-12-21,2001-09-28,22,F,Administrative,662144,5158,Surrendered,N,Rural
+POL000448,Term Life,2023-07-19,1968-10-21,54,F,Professional,413379,4170,Lapsed,Y,Suburban
+POL000449,Whole Life,2022-06-23,1955-07-28,66,F,Hazardous,449786,1130,Paid-up,N,Rural
+POL000450,Annuity,2022-06-13,1995-09-25,26,M,Skilled,234750,778,Lapsed,N,Suburban
+POL000451,Term Life,2023-12-31,1979-03-26,44,F,Hazardous,880311,2393,Lapsed,N,Urban
+POL000452,Whole Life,2020-02-03,1961-01-19,59,M,Hazardous,585926,8065,Active,N,Rural
+POL000453,Universal Life,2023-08-17,1965-05-21,58,M,Administrative,831806,5755,Surrendered,N,Urban
+POL000454,Term Life,2022-06-06,1960-08-19,61,M,Skilled,113965,7736,Lapsed,N,Urban
+POL000455,Annuity,2020-09-02,1954-03-13,66,F,Skilled,417036,5570,Surrendered,Y,Suburban
+POL000456,Annuity,2021-04-11,1994-08-19,26,F,Professional,71601,1698,Surrendered,Y,Suburban
+POL000457,Term Life,2022-10-20,1983-03-02,39,M,Administrative,280020,5789,Active,Y,Urban
+POL000458,Endowment,2021-10-22,1994-08-20,27,M,Hazardous,928875,9905,Active,Y,Rural
+POL000459,Universal Life,2021-10-01,1966-07-07,55,F,Skilled,996268,4527,Surrendered,N,Rural
+POL000460,Whole Life,2020-11-15,1989-12-06,30,M,Professional,113095,2350,Surrendered,N,Suburban
+POL000461,Endowment,2023-09-17,1976-01-25,47,F,Semi-skilled,348984,5639,Active,Y,Suburban
+POL000462,Universal Life,2023-11-22,1968-02-29,55,F,Administrative,201639,1642,Lapsed,Y,Rural
+POL000463,Universal Life,2021-04-22,1996-05-20,24,F,Skilled,457405,5859,Active,N,Rural
+POL000464,Universal Life,2021-01-17,1953-06-17,67,M,Semi-skilled,537969,1279,Surrendered,N,Urban
+POL000465,Whole Life,2023-10-21,1958-10-12,65,M,Professional,290463,1641,Paid-up,Y,Urban
+POL000466,Whole Life,2023-05-03,1954-12-23,68,M,Hazardous,639786,8719,Active,N,Urban
+POL000467,Term Life,2023-08-26,1988-07-18,35,F,Professional,823292,1384,Paid-up,Y,Rural
+POL000468,Term Life,2023-05-06,2000-11-26,22,M,Skilled,631843,3185,Surrendered,N,Rural
+POL000469,Universal Life,2022-08-30,2002-03-05,20,M,Administrative,351894,7195,Active,Y,Rural
+POL000470,Term Life,2021-12-16,1998-05-08,23,F,Skilled,659839,9873,Surrendered,N,Suburban
+POL000471,Universal Life,2022-11-30,1990-04-03,32,M,Semi-skilled,561628,4544,Active,N,Urban
+POL000472,Endowment,2022-06-01,1983-09-14,38,M,Semi-skilled,897029,7103,Active,Y,Rural
+POL000473,Annuity,2021-03-15,1996-12-24,24,M,Professional,271751,4444,Active,N,Rural
+POL000474,Term Life,2023-12-01,1993-09-07,30,F,Administrative,251169,7748,Active,Y,Suburban
+POL000475,Annuity,2021-09-08,1973-01-09,48,M,Professional,438503,6550,Surrendered,N,Rural
+POL000476,Universal Life,2023-03-20,1994-11-12,28,F,Administrative,999887,4207,Paid-up,Y,Suburban
+POL000477,Annuity,2023-04-01,1966-01-02,57,F,Hazardous,630548,7078,Active,Y,Rural
+POL000478,Endowment,2020-03-21,1965-07-17,54,M,Semi-skilled,431073,502,Paid-up,Y,Rural
+POL000479,Universal Life,2022-10-10,1963-04-20,59,F,Professional,321721,6478,Paid-up,Y,Suburban
+POL000480,Term Life,2021-04-19,1978-09-03,42,M,Skilled,273731,2065,Active,N,Suburban
+POL000481,Universal Life,2023-04-03,1980-05-01,42,M,Hazardous,984640,2422,Paid-up,Y,Urban
+POL000482,Endowment,2022-10-20,1980-10-04,42,M,Semi-skilled,52755,811,Lapsed,Y,Urban
+POL000483,Whole Life,2022-11-26,1956-07-03,66,M,Administrative,954478,5774,Lapsed,N,Urban
+POL000484,Whole Life,2021-11-09,1992-09-25,29,F,Semi-skilled,201551,2872,Paid-up,N,Rural
+POL000485,Endowment,2023-10-11,1974-10-12,49,F,Hazardous,471669,1124,Paid-up,Y,Suburban
+POL000486,Endowment,2020-04-02,1959-07-24,60,F,Skilled,254496,1370,Lapsed,Y,Suburban
+POL000487,Term Life,2022-12-15,1958-06-09,64,M,Administrative,369662,9679,Paid-up,N,Suburban
+POL000488,Endowment,2023-11-27,1995-05-29,28,M,Semi-skilled,534226,3874,Lapsed,N,Suburban
+POL000489,Universal Life,2020-05-01,1985-08-03,34,F,Skilled,722093,625,Surrendered,N,Suburban
+POL000490,Universal Life,2022-10-26,1982-01-14,40,M,Hazardous,539794,9726,Active,Y,Urban
+POL000491,Term Life,2020-07-09,1977-12-16,42,F,Semi-skilled,325172,3384,Active,N,Urban
+POL000492,Whole Life,2020-10-25,1955-06-06,65,F,Skilled,82437,4991,Surrendered,Y,Rural
+POL000493,Universal Life,2021-06-22,1970-04-27,51,F,Professional,484494,9807,Lapsed,N,Urban
+POL000494,Term Life,2020-11-28,1977-11-01,43,M,Skilled,276837,4220,Lapsed,Y,Urban
+POL000495,Universal Life,2021-06-16,1967-09-04,53,M,Hazardous,616496,6593,Lapsed,Y,Rural
+POL000496,Universal Life,2021-08-26,1978-07-09,43,F,Skilled,348184,7224,Lapsed,N,Rural
+POL000497,Endowment,2020-02-02,1992-10-22,27,F,Skilled,707382,7793,Active,N,Urban
+POL000498,Annuity,2021-10-13,1995-11-26,25,M,Skilled,623649,5757,Surrendered,Y,Urban
+POL000499,Universal Life,2023-11-21,1955-07-10,68,M,Administrative,384476,8787,Lapsed,N,Urban
+POL000500,Endowment,2022-03-16,1960-08-11,61,F,Administrative,105765,2397,Lapsed,Y,Rural
+POL000501,Term Life,2020-10-01,1955-05-30,65,M,Hazardous,736453,3958,Surrendered,N,Suburban
+POL000502,Annuity,2020-01-24,1969-08-12,50,F,Skilled,332337,4704,Paid-up,Y,Rural
+POL000503,Whole Life,2020-10-03,1973-03-12,47,M,Semi-skilled,380003,1088,Surrendered,Y,Urban
+POL000504,Annuity,2021-10-20,1957-05-28,64,M,Administrative,123866,9049,Lapsed,N,Suburban
+POL000505,Endowment,2020-02-01,1992-07-11,27,M,Hazardous,602440,2595,Lapsed,Y,Urban
+POL000506,Whole Life,2023-02-12,1984-06-17,38,M,Administrative,799139,1055,Lapsed,N,Urban
+POL000507,Universal Life,2020-09-25,1984-10-04,36,M,Hazardous,894619,5158,Lapsed,N,Rural
+POL000508,Endowment,2022-08-27,1953-08-23,69,M,Professional,395465,8310,Lapsed,Y,Suburban
+POL000509,Universal Life,2021-10-01,1956-05-09,65,M,Semi-skilled,766490,4334,Paid-up,Y,Urban
+POL000510,Universal Life,2020-04-06,1983-07-08,36,F,Semi-skilled,789485,8960,Active,N,Urban
+POL000511,Whole Life,2020-01-19,1967-05-09,52,F,Semi-skilled,623541,1020,Active,Y,Urban
+POL000512,Annuity,2022-04-05,1961-12-29,60,F,Professional,807620,7184,Lapsed,N,Rural
+POL000513,Whole Life,2021-07-27,1952-04-03,69,M,Semi-skilled,110762,3616,Active,N,Urban
+POL000514,Term Life,2022-11-07,1958-05-05,64,M,Administrative,915626,4065,Active,N,Suburban
+POL000515,Whole Life,2022-02-13,1973-06-03,48,F,Administrative,276371,2897,Surrendered,N,Urban
+POL000516,Annuity,2023-03-22,1983-07-23,39,F,Skilled,913274,7415,Active,N,Rural
+POL000517,Whole Life,2021-06-30,1965-07-18,55,M,Administrative,684933,4888,Active,Y,Urban
+POL000518,Endowment,2021-03-30,2000-08-23,20,F,Administrative,679937,3510,Lapsed,Y,Suburban
+POL000519,Term Life,2021-06-18,1956-07-06,64,M,Semi-skilled,180796,7198,Lapsed,Y,Urban
+POL000520,Annuity,2021-09-03,1982-07-06,39,F,Administrative,631291,6326,Lapsed,N,Suburban
+POL000521,Annuity,2023-03-10,1960-03-05,63,M,Skilled,417015,3477,Lapsed,Y,Suburban
+POL000522,Endowment,2021-05-26,1992-03-15,29,F,Skilled,741292,5855,Lapsed,Y,Suburban
+POL000523,Annuity,2021-03-12,1972-06-26,48,M,Semi-skilled,848592,5100,Paid-up,N,Rural
+POL000524,Endowment,2021-12-03,1964-01-25,57,M,Hazardous,558203,3583,Surrendered,N,Rural
+POL000525,Universal Life,2022-01-05,1991-03-26,30,M,Professional,743130,1358,Lapsed,N,Rural
+POL000526,Whole Life,2022-11-26,1963-12-30,58,F,Semi-skilled,838184,519,Active,Y,Urban
+POL000527,Universal Life,2023-05-26,1978-05-25,45,M,Semi-skilled,461452,3739,Paid-up,Y,Suburban
+POL000528,Term Life,2020-02-15,1985-02-19,35,M,Semi-skilled,962635,7579,Active,Y,Urban
+POL000529,Endowment,2021-08-18,1989-09-17,31,F,Skilled,223224,9314,Surrendered,Y,Urban
+POL000530,Whole Life,2023-08-16,1987-01-10,36,M,Hazardous,750985,2987,Paid-up,Y,Urban
+POL000531,Endowment,2021-05-14,1971-07-10,49,F,Hazardous,855561,8703,Paid-up,N,Suburban
+POL000532,Universal Life,2021-09-06,2002-03-09,19,M,Hazardous,287949,3288,Active,Y,Suburban
+POL000533,Annuity,2021-08-24,1964-10-24,56,F,Skilled,224069,525,Active,Y,Rural
+POL000534,Annuity,2023-06-09,1978-05-27,45,M,Hazardous,62739,8542,Paid-up,N,Suburban
+POL000535,Endowment,2023-04-27,1955-01-29,68,M,Skilled,214882,6508,Lapsed,Y,Urban
+POL000536,Whole Life,2022-06-09,1979-06-30,42,M,Professional,264755,7832,Active,Y,Rural
+POL000537,Endowment,2023-11-23,1974-03-31,49,F,Semi-skilled,376072,5543,Lapsed,Y,Rural
+POL000538,Universal Life,2023-11-19,1981-09-13,42,F,Administrative,560538,3248,Paid-up,Y,Urban
+POL000539,Term Life,2020-02-28,1982-08-23,37,M,Skilled,592609,9731,Surrendered,Y,Urban
+POL000540,Universal Life,2020-08-27,1964-05-16,56,M,Hazardous,713983,2665,Paid-up,Y,Suburban
+POL000541,Endowment,2023-12-20,1994-01-22,29,M,Hazardous,320508,1006,Lapsed,Y,Urban
+POL000542,Annuity,2021-08-15,1987-06-10,34,F,Semi-skilled,307473,6117,Paid-up,Y,Rural
+POL000543,Term Life,2023-02-03,1964-09-15,58,F,Skilled,61268,7265,Surrendered,N,Suburban
+POL000544,Endowment,2022-04-18,1978-12-02,43,M,Professional,877342,3104,Paid-up,Y,Urban
+POL000545,Term Life,2022-04-20,1995-06-24,26,F,Semi-skilled,54868,9259,Surrendered,N,Suburban
+POL000546,Universal Life,2020-05-28,1990-06-05,30,F,Administrative,702684,1152,Lapsed,N,Suburban
+POL000547,Endowment,2023-01-16,1970-11-13,52,M,Professional,378183,3116,Surrendered,N,Suburban
+POL000548,Term Life,2021-07-21,1999-12-18,21,F,Skilled,583367,810,Active,N,Suburban
+POL000549,Whole Life,2021-02-12,1979-03-10,41,F,Hazardous,640190,1995,Lapsed,N,Rural
+POL000550,Universal Life,2022-06-12,1962-06-18,60,F,Skilled,339997,9750,Active,Y,Suburban
+POL000551,Endowment,2023-01-19,2004-11-11,18,M,Professional,527166,5925,Surrendered,N,Urban
+POL000552,Annuity,2020-08-19,1957-03-28,63,M,Hazardous,587942,5762,Surrendered,N,Urban
+POL000553,Term Life,2020-09-04,1998-08-17,22,M,Semi-skilled,402134,3894,Lapsed,N,Rural
+POL000554,Whole Life,2023-06-14,1966-01-20,57,M,Hazardous,874900,9098,Paid-up,Y,Urban
+POL000555,Universal Life,2023-04-26,1981-02-08,42,M,Skilled,863498,5800,Paid-up,Y,Rural
+POL000556,Term Life,2023-11-15,1977-06-22,46,F,Hazardous,853771,1936,Active,N,Rural
+POL000557,Annuity,2021-08-28,1979-03-17,42,M,Skilled,136737,9780,Lapsed,Y,Rural
+POL000558,Term Life,2021-01-04,1966-05-17,54,F,Hazardous,405626,8652,Surrendered,Y,Urban
+POL000559,Universal Life,2021-03-06,1972-07-23,48,M,Professional,534040,2796,Lapsed,N,Urban
+POL000560,Annuity,2023-01-14,1967-05-25,55,M,Skilled,175966,7437,Paid-up,Y,Rural
+POL000561,Whole Life,2023-09-16,1964-07-29,59,M,Skilled,461508,8194,Paid-up,N,Suburban
+POL000562,Endowment,2023-05-23,1997-09-06,25,M,Administrative,378365,9376,Surrendered,Y,Rural
+POL000563,Term Life,2023-02-28,1957-12-24,65,M,Skilled,660002,1339,Active,N,Suburban
+POL000564,Term Life,2023-02-15,1972-11-11,50,F,Skilled,354615,6717,Paid-up,N,Urban
+POL000565,Whole Life,2020-04-02,1973-02-16,47,F,Administrative,873267,8462,Lapsed,Y,Suburban
+POL000566,Annuity,2020-06-12,1979-06-26,40,F,Semi-skilled,381438,1788,Surrendered,Y,Suburban
+POL000567,Endowment,2020-05-22,1957-10-28,62,M,Professional,126378,4014,Paid-up,N,Rural
+POL000568,Universal Life,2022-12-03,1985-07-04,37,M,Semi-skilled,193343,1110,Surrendered,N,Suburban
+POL000569,Annuity,2022-10-27,1954-05-07,68,F,Hazardous,657621,4668,Lapsed,N,Suburban
+POL000570,Whole Life,2023-08-27,1968-07-24,55,F,Hazardous,834246,6291,Lapsed,N,Rural
+POL000571,Whole Life,2020-11-14,2002-01-10,18,M,Administrative,508260,2969,Paid-up,N,Suburban
+POL000572,Whole Life,2020-11-13,1981-08-12,39,M,Semi-skilled,67814,4804,Surrendered,N,Rural
+POL000573,Universal Life,2023-11-05,1961-01-17,62,M,Professional,862375,5778,Lapsed,Y,Rural
+POL000574,Annuity,2023-09-14,1966-07-22,57,F,Skilled,174681,9681,Lapsed,N,Suburban
+POL000575,Whole Life,2021-06-06,1974-06-08,47,F,Hazardous,694422,6157,Active,N,Urban
+POL000576,Endowment,2021-01-12,1959-09-25,61,M,Professional,476009,5758,Paid-up,Y,Rural
+POL000577,Annuity,2020-08-25,1999-06-14,21,F,Semi-skilled,486706,4259,Paid-up,N,Suburban
+POL000578,Endowment,2020-05-28,1998-05-13,22,F,Hazardous,390127,3412,Active,N,Rural
+POL000579,Term Life,2020-11-09,1990-10-23,30,F,Hazardous,199366,5402,Paid-up,N,Suburban
+POL000580,Universal Life,2020-02-27,1972-04-25,47,M,Professional,224226,8730,Lapsed,Y,Rural
+POL000581,Whole Life,2020-01-02,1956-03-02,63,M,Hazardous,383770,2776,Lapsed,Y,Urban
+POL000582,Whole Life,2020-12-24,1959-11-09,61,M,Hazardous,168355,7434,Paid-up,Y,Rural
+POL000583,Universal Life,2022-12-19,1993-11-12,29,F,Professional,870361,6448,Surrendered,N,Urban
+POL000584,Term Life,2021-01-03,1984-11-24,36,M,Skilled,935915,8116,Active,N,Rural
+POL000585,Endowment,2020-02-22,1957-08-04,62,F,Administrative,937817,2609,Active,Y,Suburban
+POL000586,Universal Life,2022-06-06,1998-11-22,23,F,Administrative,999661,3105,Paid-up,N,Urban
+POL000587,Term Life,2022-06-16,1997-11-17,24,F,Hazardous,125606,8464,Paid-up,N,Rural
+POL000588,Whole Life,2022-10-02,1968-04-13,54,F,Administrative,983551,7382,Paid-up,Y,Urban
+POL000589,Annuity,2023-08-09,1967-08-25,55,F,Semi-skilled,613421,1065,Active,Y,Urban
+POL000590,Annuity,2020-04-27,1977-04-25,43,F,Skilled,68426,9902,Active,Y,Suburban
+POL000591,Whole Life,2022-12-31,1975-04-27,47,M,Professional,923254,5169,Paid-up,N,Suburban
+POL000592,Term Life,2023-08-05,2004-11-26,18,F,Hazardous,208521,978,Lapsed,N,Rural
+POL000593,Endowment,2021-02-28,1996-07-15,24,M,Administrative,83424,5779,Paid-up,N,Urban
+POL000594,Term Life,2020-12-26,1979-01-13,41,M,Skilled,328261,3296,Surrendered,Y,Rural
+POL000595,Term Life,2021-01-08,1981-04-22,39,M,Professional,659815,4478,Paid-up,Y,Suburban
+POL000596,Endowment,2022-12-17,1964-09-14,58,F,Professional,715644,7478,Lapsed,Y,Suburban
+POL000597,Term Life,2022-06-10,1979-01-08,43,F,Hazardous,898145,5823,Active,N,Urban
+POL000598,Whole Life,2021-12-14,1991-12-21,30,M,Skilled,573234,1055,Lapsed,N,Rural
+POL000599,Universal Life,2020-02-09,1963-09-12,56,M,Semi-skilled,177773,5177,Paid-up,N,Suburban
+POL000600,Endowment,2023-05-23,2003-12-12,19,F,Skilled,715864,8579,Active,N,Suburban
+POL000601,Universal Life,2020-09-06,1970-07-13,50,M,Administrative,859898,4219,Surrendered,N,Rural
+POL000602,Term Life,2022-07-21,1953-03-26,69,M,Skilled,852746,5798,Lapsed,N,Rural
+POL000603,Annuity,2023-01-04,2004-04-01,18,F,Hazardous,752175,5710,Surrendered,Y,Suburban
+POL000604,Annuity,2023-02-20,1999-03-02,23,M,Skilled,75350,3442,Paid-up,N,Urban
+POL000605,Term Life,2022-01-29,1973-08-09,48,M,Semi-skilled,610750,8354,Lapsed,N,Suburban
+POL000606,Universal Life,2022-04-16,1982-12-21,39,M,Administrative,987117,7331,Lapsed,N,Rural
+POL000607,Annuity,2022-08-15,1975-06-21,47,F,Hazardous,912683,9736,Surrendered,N,Suburban
+POL000608,Whole Life,2023-11-07,2001-06-04,22,F,Semi-skilled,314371,9084,Lapsed,Y,Suburban
+POL000609,Whole Life,2021-03-05,1953-05-21,67,M,Skilled,909253,9896,Surrendered,Y,Suburban
+POL000610,Endowment,2023-08-23,1968-10-10,54,F,Administrative,723866,6280,Paid-up,N,Suburban
+POL000611,Universal Life,2022-02-23,1973-05-26,48,F,Professional,542819,3216,Surrendered,Y,Suburban
+POL000612,Universal Life,2023-08-22,1955-10-14,67,M,Skilled,379636,9284,Active,N,Suburban
+POL000613,Whole Life,2020-06-11,1985-04-17,35,F,Administrative,358208,4592,Paid-up,N,Urban
+POL000614,Whole Life,2023-07-03,1992-10-06,30,M,Hazardous,662317,9425,Active,N,Rural
+POL000615,Whole Life,2020-08-19,1966-11-04,53,F,Semi-skilled,832664,8402,Lapsed,Y,Urban
+POL000616,Whole Life,2021-05-11,1965-11-21,55,F,Skilled,460657,1381,Surrendered,N,Urban
+POL000617,Term Life,2020-04-18,1976-12-17,43,M,Professional,473550,5525,Surrendered,Y,Suburban
+POL000618,Endowment,2022-09-09,1998-05-13,24,F,Semi-skilled,786572,8993,Paid-up,Y,Suburban
+POL000619,Annuity,2022-05-22,1974-04-13,48,M,Professional,428453,1077,Paid-up,N,Rural
+POL000620,Term Life,2020-07-26,1993-03-11,27,M,Professional,690476,2660,Surrendered,Y,Urban
+POL000621,Universal Life,2023-04-06,2002-09-07,20,F,Administrative,430172,3824,Lapsed,Y,Rural
+POL000622,Whole Life,2023-09-23,2004-10-05,18,F,Skilled,876194,8998,Paid-up,N,Rural
+POL000623,Whole Life,2023-03-07,1955-03-30,67,M,Professional,227410,9601,Paid-up,N,Urban
+POL000624,Whole Life,2022-11-23,1957-08-11,65,M,Professional,130038,2678,Lapsed,Y,Rural
+POL000625,Annuity,2023-03-23,1960-01-28,63,F,Administrative,933012,3132,Active,N,Suburban
+POL000626,Annuity,2022-10-16,1957-04-05,65,M,Professional,176229,9046,Lapsed,N,Urban
+POL000627,Endowment,2022-03-27,1997-04-14,24,F,Semi-skilled,236934,7966,Active,N,Urban
+POL000628,Endowment,2021-03-11,1968-10-31,52,F,Semi-skilled,339084,7776,Lapsed,N,Urban
+POL000629,Endowment,2020-03-20,1983-05-16,36,F,Skilled,502099,4929,Lapsed,Y,Suburban
+POL000630,Endowment,2022-04-22,1971-04-22,51,F,Hazardous,374003,7788,Paid-up,Y,Urban
+POL000631,Endowment,2020-11-08,1989-09-04,31,F,Semi-skilled,586590,1850,Surrendered,Y,Urban
+POL000632,Endowment,2021-06-10,1967-08-06,53,F,Professional,898248,2648,Surrendered,Y,Suburban
+POL000633,Term Life,2021-10-22,1987-09-25,34,M,Semi-skilled,793885,3886,Lapsed,Y,Suburban
+POL000634,Term Life,2022-08-04,1965-07-10,57,M,Semi-skilled,827900,3791,Active,Y,Urban
+POL000635,Whole Life,2021-01-17,1990-02-05,30,F,Professional,344094,3776,Lapsed,N,Urban
+POL000636,Whole Life,2021-08-01,1973-11-16,47,M,Semi-skilled,548993,6404,Lapsed,N,Rural
+POL000637,Annuity,2023-02-26,1959-11-25,63,M,Skilled,417737,1209,Lapsed,Y,Urban
+POL000638,Annuity,2022-02-03,1963-12-28,58,F,Administrative,764666,5070,Active,N,Rural
+POL000639,Endowment,2021-05-20,1958-10-22,62,F,Professional,829817,1193,Surrendered,N,Urban
+POL000640,Whole Life,2020-07-11,1979-03-10,41,F,Hazardous,361213,1902,Lapsed,Y,Urban
+POL000641,Annuity,2023-12-30,1994-07-11,29,M,Administrative,214958,6873,Surrendered,Y,Rural
+POL000642,Annuity,2022-09-08,1992-01-26,30,M,Skilled,245049,9539,Surrendered,Y,Urban
+POL000643,Universal Life,2020-05-27,1961-09-20,58,F,Administrative,784519,7989,Lapsed,N,Suburban
+POL000644,Annuity,2023-11-14,1987-02-16,36,F,Skilled,835261,2026,Active,N,Suburban
+POL000645,Universal Life,2021-03-05,1987-08-06,33,M,Administrative,121474,6297,Surrendered,Y,Urban
+POL000646,Annuity,2023-08-01,1979-10-13,43,M,Skilled,324536,980,Lapsed,N,Suburban
+POL000647,Universal Life,2023-12-21,1972-12-23,51,M,Skilled,708740,878,Paid-up,N,Rural
+POL000648,Annuity,2021-08-20,1972-04-29,49,M,Hazardous,905288,7937,Lapsed,N,Suburban
+POL000649,Term Life,2021-10-30,1996-05-08,25,M,Semi-skilled,151553,9895,Surrendered,N,Suburban
+POL000650,Endowment,2020-01-14,2000-10-03,19,F,Skilled,666001,3992,Lapsed,Y,Rural
+POL000651,Whole Life,2023-04-01,1958-07-11,64,F,Skilled,997069,8832,Surrendered,Y,Urban
+POL000652,Annuity,2020-03-02,2001-05-20,18,F,Semi-skilled,642303,9295,Paid-up,Y,Suburban
+POL000653,Universal Life,2023-03-03,2000-07-21,22,F,Semi-skilled,129784,2481,Paid-up,Y,Rural
+POL000654,Universal Life,2020-09-08,1970-08-12,50,M,Administrative,274821,7367,Paid-up,N,Suburban
+POL000655,Term Life,2020-12-24,1965-08-21,55,M,Professional,908829,5936,Active,N,Urban
+POL000656,Endowment,2023-04-03,1997-05-08,25,M,Hazardous,715892,3483,Lapsed,N,Urban
+POL000657,Universal Life,2021-05-07,1955-09-05,65,F,Skilled,529756,4891,Lapsed,N,Suburban
+POL000658,Term Life,2021-11-29,1976-01-11,45,F,Hazardous,527699,4120,Active,Y,Rural
+POL000659,Term Life,2020-11-14,1969-05-28,51,M,Skilled,70679,1626,Paid-up,N,Urban
+POL000660,Term Life,2023-11-28,1968-08-20,55,M,Administrative,846814,3934,Paid-up,Y,Suburban
+POL000661,Annuity,2020-12-05,1975-06-23,45,F,Skilled,289376,5865,Active,Y,Urban
+POL000662,Annuity,2021-06-02,1978-12-22,42,M,Administrative,695759,572,Active,N,Rural
+POL000663,Term Life,2022-12-04,1978-12-27,43,F,Skilled,346306,7551,Active,Y,Suburban
+POL000664,Whole Life,2022-06-16,1965-10-01,56,F,Semi-skilled,351360,725,Lapsed,Y,Urban
+POL000665,Whole Life,2020-05-30,1993-11-05,26,M,Administrative,598349,2720,Lapsed,Y,Suburban
+POL000666,Term Life,2023-09-05,1997-02-21,26,F,Administrative,294508,7706,Active,Y,Rural
+POL000667,Term Life,2020-06-04,1976-11-08,43,F,Administrative,741882,7848,Surrendered,Y,Suburban
+POL000668,Endowment,2023-11-10,1993-05-30,30,F,Administrative,161653,6160,Active,N,Rural
+POL000669,Universal Life,2020-11-01,1996-12-08,23,M,Professional,450707,3940,Active,N,Urban
+POL000670,Annuity,2020-02-21,1963-06-11,56,F,Administrative,60322,8026,Lapsed,N,Urban
+POL000671,Whole Life,2023-01-29,1996-06-30,26,F,Skilled,765891,7857,Active,N,Rural
+POL000672,Term Life,2020-03-15,1979-04-06,40,F,Administrative,310589,8727,Active,Y,Rural
+POL000673,Term Life,2022-10-26,1959-10-23,63,F,Professional,145923,3481,Paid-up,N,Suburban
+POL000674,Endowment,2022-08-18,1980-11-23,41,F,Hazardous,330017,557,Surrendered,N,Suburban
+POL000675,Annuity,2022-12-21,1961-09-20,61,F,Hazardous,647561,1759,Paid-up,N,Rural
+POL000676,Term Life,2020-06-04,1956-10-22,63,M,Professional,455838,2280,Surrendered,Y,Rural
+POL000677,Annuity,2020-09-23,1991-03-29,29,M,Professional,811043,7783,Active,N,Suburban
+POL000678,Term Life,2022-12-25,1968-12-28,54,M,Hazardous,312623,6913,Active,N,Rural
+POL000679,Whole Life,2023-11-05,1969-12-17,53,F,Skilled,924731,3108,Lapsed,Y,Rural
+POL000680,Endowment,2021-05-07,1965-01-17,56,F,Semi-skilled,246030,2899,Active,Y,Rural
+POL000681,Endowment,2020-05-16,1996-08-16,23,F,Semi-skilled,655824,3848,Active,Y,Rural
+POL000682,Whole Life,2023-04-23,1956-09-18,66,M,Skilled,723989,1091,Active,N,Rural
+POL000683,Universal Life,2021-08-05,1969-12-09,51,F,Administrative,852344,6493,Active,N,Urban
+POL000684,Whole Life,2022-01-08,1962-09-02,59,F,Administrative,400286,1359,Active,N,Rural
+POL000685,Annuity,2021-07-11,1987-06-14,34,M,Semi-skilled,495246,9722,Paid-up,N,Suburban
+POL000686,Universal Life,2022-07-06,1956-08-24,65,M,Professional,696100,6834,Paid-up,Y,Rural
+POL000687,Universal Life,2020-03-31,1982-02-24,38,F,Administrative,585812,8807,Paid-up,Y,Suburban
+POL000688,Endowment,2023-08-22,1988-10-07,34,F,Semi-skilled,368967,3358,Active,N,Suburban
+POL000689,Universal Life,2021-08-09,2000-10-10,20,F,Semi-skilled,626500,4815,Active,N,Urban
+POL000690,Term Life,2021-01-12,1977-08-31,43,F,Administrative,655370,4991,Paid-up,Y,Rural
+POL000691,Universal Life,2021-09-27,1974-02-19,47,F,Administrative,901877,7424,Lapsed,Y,Urban
+POL000692,Universal Life,2021-10-25,2001-04-22,20,M,Skilled,903831,547,Surrendered,Y,Urban
+POL000693,Universal Life,2023-10-14,2004-07-17,19,M,Administrative,94926,826,Active,N,Rural
+POL000694,Term Life,2021-10-25,1952-09-24,69,M,Administrative,591864,3431,Surrendered,N,Rural
+POL000695,Term Life,2022-06-16,1996-04-01,26,M,Semi-skilled,858695,8091,Lapsed,Y,Suburban
+POL000696,Whole Life,2022-08-28,1977-07-13,45,M,Hazardous,829163,5571,Lapsed,N,Urban
+POL000697,Whole Life,2020-11-20,1952-11-10,68,F,Hazardous,762665,5151,Active,Y,Rural
+POL000698,Annuity,2020-12-23,1952-06-16,68,F,Administrative,921737,6009,Paid-up,Y,Suburban
+POL000699,Term Life,2022-04-21,1990-06-03,31,M,Administrative,891844,665,Active,Y,Suburban
+POL000700,Annuity,2020-04-12,1989-11-11,30,M,Professional,684847,4579,Surrendered,Y,Urban
+POL000701,Universal Life,2023-02-26,1989-11-19,33,F,Hazardous,440555,7928,Active,N,Rural
+POL000702,Universal Life,2022-09-03,1960-01-20,62,M,Administrative,249228,4508,Lapsed,N,Urban
+POL000703,Term Life,2021-02-09,1998-05-19,22,M,Administrative,416072,2038,Lapsed,N,Suburban
+POL000704,Term Life,2021-08-06,1976-03-27,45,F,Skilled,692686,4704,Surrendered,N,Suburban
+POL000705,Term Life,2022-04-12,1961-11-21,60,M,Professional,491205,4302,Paid-up,Y,Suburban
+POL000706,Universal Life,2021-03-24,1970-03-28,51,F,Administrative,225352,2139,Active,Y,Suburban
+POL000707,Endowment,2022-12-02,1955-05-04,67,M,Skilled,581802,4438,Surrendered,Y,Rural
+POL000708,Whole Life,2020-08-12,1969-05-17,51,F,Administrative,271483,7032,Active,N,Urban
+POL000709,Annuity,2023-08-17,1954-10-13,68,F,Semi-skilled,72551,8942,Surrendered,Y,Rural
+POL000710,Whole Life,2021-10-16,1990-03-13,31,F,Administrative,905375,8862,Active,Y,Suburban
+POL000711,Term Life,2021-07-03,1992-07-16,28,F,Administrative,743512,8586,Active,Y,Suburban
+POL000712,Annuity,2021-01-26,1970-10-18,50,M,Professional,894329,4567,Lapsed,N,Rural
+POL000713,Term Life,2023-10-28,1973-06-14,50,F,Administrative,386453,2191,Lapsed,N,Rural
+POL000714,Endowment,2021-11-23,1983-03-10,38,M,Semi-skilled,504672,9022,Paid-up,N,Urban
+POL000715,Whole Life,2022-10-07,1961-04-29,61,F,Hazardous,870217,5139,Paid-up,Y,Urban
+POL000716,Term Life,2021-07-22,2000-03-27,21,F,Skilled,494633,3249,Paid-up,Y,Rural
+POL000717,Whole Life,2020-04-14,1953-05-04,66,F,Semi-skilled,374571,6812,Surrendered,N,Urban
+POL000718,Universal Life,2022-03-09,2002-09-16,19,M,Semi-skilled,726445,879,Surrendered,Y,Rural
+POL000719,Endowment,2023-11-07,1974-11-22,48,M,Hazardous,408683,9084,Active,Y,Suburban
+POL000720,Term Life,2021-08-13,1965-09-16,55,F,Administrative,500053,7633,Lapsed,Y,Urban
+POL000721,Whole Life,2021-09-19,1971-08-23,50,M,Administrative,175601,2468,Lapsed,Y,Suburban
+POL000722,Endowment,2023-10-13,1974-01-27,49,F,Professional,913679,8978,Active,Y,Urban
+POL000723,Whole Life,2022-03-10,1957-06-12,64,F,Professional,251810,2630,Surrendered,Y,Rural
+POL000724,Whole Life,2023-06-08,1991-09-09,31,M,Skilled,863888,2526,Lapsed,Y,Suburban
+POL000725,Universal Life,2022-10-22,1994-04-19,28,F,Administrative,553605,6916,Active,N,Urban
+POL000726,Universal Life,2021-08-26,1952-01-14,69,F,Professional,482233,6826,Paid-up,N,Urban
+POL000727,Universal Life,2021-10-13,1993-10-13,28,F,Professional,748678,4917,Lapsed,N,Urban
+POL000728,Whole Life,2022-05-01,1998-09-12,23,F,Skilled,745142,3650,Lapsed,Y,Suburban
+POL000729,Term Life,2023-12-10,1991-09-22,32,F,Skilled,792070,966,Lapsed,N,Urban
+POL000730,Endowment,2022-07-18,1953-02-09,69,M,Skilled,159810,6880,Surrendered,N,Suburban
+POL000731,Annuity,2022-06-28,1981-05-30,41,F,Administrative,599172,1764,Surrendered,Y,Suburban
+POL000732,Annuity,2020-02-15,1961-11-04,58,M,Hazardous,677670,9992,Active,Y,Suburban
+POL000733,Universal Life,2020-12-14,1994-03-07,26,M,Administrative,267706,9552,Lapsed,N,Suburban
+POL000734,Universal Life,2020-09-30,1971-12-31,48,F,Semi-skilled,208836,6359,Surrendered,N,Rural
+POL000735,Endowment,2021-05-20,1999-08-25,21,M,Professional,854228,4465,Active,Y,Suburban
+POL000736,Term Life,2021-03-01,1954-04-03,66,M,Skilled,979464,734,Active,N,Suburban
+POL000737,Universal Life,2021-07-12,1962-01-25,59,M,Semi-skilled,441220,3846,Surrendered,Y,Urban
+POL000738,Annuity,2023-05-28,1963-11-15,59,F,Semi-skilled,589071,3933,Surrendered,N,Rural
+POL000739,Annuity,2023-06-04,1967-09-20,55,F,Semi-skilled,136938,4788,Paid-up,N,Urban
+POL000740,Endowment,2020-04-18,1982-05-15,37,M,Semi-skilled,265678,2950,Lapsed,N,Rural
+POL000741,Annuity,2023-11-28,1993-10-31,30,F,Skilled,331370,6572,Lapsed,Y,Suburban
+POL000742,Endowment,2020-08-16,1968-01-20,52,F,Hazardous,53421,3481,Paid-up,N,Urban
+POL000743,Term Life,2022-09-23,1996-07-19,26,F,Administrative,380067,5700,Paid-up,N,Urban
+POL000744,Universal Life,2021-03-12,1995-11-18,25,M,Skilled,60147,8106,Paid-up,Y,Suburban
+POL000745,Universal Life,2023-09-21,1969-12-15,53,M,Professional,152864,2067,Lapsed,Y,Urban
+POL000746,Endowment,2021-11-04,1991-08-16,30,F,Skilled,980493,8903,Surrendered,Y,Suburban
+POL000747,Whole Life,2021-10-25,1994-01-24,27,M,Hazardous,733558,7504,Active,N,Urban
+POL000748,Universal Life,2023-04-29,2003-04-11,20,M,Semi-skilled,364002,7491,Lapsed,Y,Rural
+POL000749,Annuity,2020-02-09,1986-02-09,34,M,Professional,871680,8569,Paid-up,Y,Rural
+POL000750,Universal Life,2020-09-15,1973-06-05,47,F,Skilled,896745,5132,Surrendered,Y,Suburban
+POL000751,Whole Life,2022-10-19,1985-01-26,37,M,Administrative,317105,869,Surrendered,N,Suburban
+POL000752,Universal Life,2021-04-06,1980-08-11,40,F,Administrative,389621,2061,Active,N,Rural
+POL000753,Term Life,2022-01-04,1968-12-24,53,F,Administrative,228448,2636,Surrendered,Y,Rural
+POL000754,Term Life,2022-06-15,1970-10-28,51,M,Hazardous,285219,5271,Surrendered,Y,Urban
+POL000755,Endowment,2020-12-21,1975-01-31,45,M,Hazardous,780995,3938,Active,Y,Rural
+POL000756,Term Life,2022-02-08,1959-08-02,62,M,Professional,225680,2991,Active,Y,Urban
+POL000757,Annuity,2020-10-05,1969-04-03,51,F,Skilled,202737,9864,Active,Y,Suburban
+POL000758,Whole Life,2023-09-26,1958-01-04,65,F,Administrative,432049,4505,Active,N,Rural
+POL000759,Universal Life,2021-02-16,1988-04-17,32,M,Hazardous,479289,6996,Surrendered,Y,Urban
+POL000760,Whole Life,2021-01-22,1966-03-19,54,F,Professional,731361,615,Paid-up,Y,Rural
+POL000761,Universal Life,2021-06-13,1981-07-24,39,M,Semi-skilled,849661,1782,Paid-up,Y,Rural
+POL000762,Term Life,2023-06-14,1953-10-27,69,F,Hazardous,730479,2875,Active,Y,Suburban
+POL000763,Whole Life,2021-07-16,1957-10-14,63,M,Semi-skilled,996793,7167,Lapsed,Y,Urban
+POL000764,Term Life,2022-11-17,1961-07-04,61,F,Skilled,513052,3329,Lapsed,N,Rural
+POL000765,Annuity,2022-10-22,1994-12-15,27,F,Semi-skilled,854561,9428,Active,Y,Suburban
+POL000766,Term Life,2020-05-01,1957-06-12,62,M,Semi-skilled,542835,4276,Paid-up,Y,Rural
+POL000767,Universal Life,2022-06-09,1955-01-01,67,F,Professional,416335,6477,Lapsed,Y,Suburban
+POL000768,Term Life,2021-10-06,1978-01-04,43,M,Professional,787100,4372,Lapsed,N,Urban
+POL000769,Universal Life,2022-11-04,1960-11-29,61,F,Professional,172053,5926,Surrendered,N,Rural
+POL000770,Endowment,2020-02-11,1968-03-04,51,F,Hazardous,848833,4461,Active,Y,Rural
+POL000771,Annuity,2021-12-31,1984-04-03,37,M,Semi-skilled,854685,9242,Active,N,Suburban
+POL000772,Endowment,2020-12-17,2002-05-21,18,F,Professional,311278,6858,Active,N,Rural
+POL000773,Whole Life,2023-01-20,2000-10-05,22,M,Semi-skilled,357215,5901,Surrendered,Y,Rural
+POL000774,Endowment,2022-10-14,1959-09-29,63,F,Professional,144619,1548,Lapsed,Y,Suburban
+POL000775,Endowment,2023-09-23,1962-02-16,61,F,Skilled,888764,1726,Active,N,Urban
+POL000776,Endowment,2022-02-12,1989-12-22,32,M,Administrative,214234,9233,Surrendered,Y,Rural
+POL000777,Annuity,2021-10-13,1984-02-02,37,M,Administrative,719619,6040,Paid-up,N,Suburban
+POL000778,Universal Life,2021-03-17,1994-12-05,26,F,Professional,408633,6869,Paid-up,Y,Urban
+POL000779,Whole Life,2021-08-16,1997-10-18,23,M,Semi-skilled,699637,6868,Active,Y,Urban
+POL000780,Term Life,2020-09-18,1969-12-29,50,M,Semi-skilled,549291,7616,Active,Y,Suburban
+POL000781,Term Life,2020-08-28,1986-03-30,34,F,Hazardous,254002,5808,Paid-up,N,Rural
+POL000782,Annuity,2022-10-12,1986-07-29,36,F,Administrative,264981,9200,Active,N,Rural
+POL000783,Endowment,2021-01-12,1968-01-03,53,M,Semi-skilled,466964,623,Active,N,Rural
+POL000784,Annuity,2022-10-16,1961-11-23,60,F,Skilled,650125,5174,Lapsed,Y,Urban
+POL000785,Universal Life,2022-12-03,1978-12-03,44,M,Semi-skilled,942336,8228,Lapsed,N,Rural
+POL000786,Whole Life,2020-01-15,1963-08-20,56,F,Hazardous,678216,2302,Surrendered,N,Rural
+POL000787,Whole Life,2021-09-18,1973-05-20,48,M,Administrative,222584,5775,Surrendered,N,Rural
+POL000788,Annuity,2023-06-29,1992-06-08,31,F,Administrative,225236,813,Active,N,Urban
+POL000789,Term Life,2021-05-10,1993-09-09,27,F,Semi-skilled,705419,7404,Lapsed,Y,Urban
+POL000790,Annuity,2021-05-15,1979-04-13,42,M,Semi-skilled,751845,8436,Paid-up,N,Rural
+POL000791,Whole Life,2020-03-22,1976-08-18,43,M,Administrative,970948,575,Active,N,Suburban
+POL000792,Annuity,2020-01-29,1971-05-09,48,F,Semi-skilled,50724,4432,Paid-up,Y,Urban
+POL000793,Endowment,2021-04-23,2002-04-30,18,F,Professional,928137,8052,Paid-up,Y,Suburban
+POL000794,Term Life,2020-06-10,1971-03-04,49,F,Professional,266456,5928,Surrendered,N,Suburban
+POL000795,Endowment,2021-06-01,1985-03-09,36,F,Semi-skilled,638554,4299,Lapsed,Y,Urban
+POL000796,Endowment,2020-11-26,1975-03-06,45,F,Administrative,716489,4564,Lapsed,Y,Urban
+POL000797,Whole Life,2020-06-28,1955-04-19,65,M,Skilled,209079,3205,Active,Y,Rural
+POL000798,Endowment,2023-01-20,1988-09-27,34,F,Professional,875479,1107,Lapsed,N,Suburban
+POL000799,Endowment,2020-05-01,1953-03-22,67,F,Professional,772346,684,Active,Y,Rural
+POL000800,Term Life,2021-05-27,1979-08-29,41,F,Administrative,523307,5530,Surrendered,Y,Urban
+POL000801,Term Life,2021-04-02,2001-12-29,19,F,Hazardous,297842,4308,Paid-up,N,Urban
+POL000802,Universal Life,2020-11-03,1981-01-02,39,M,Skilled,771764,699,Surrendered,N,Suburban
+POL000803,Universal Life,2020-03-19,1961-02-05,59,F,Hazardous,358351,2054,Active,Y,Rural
+POL000804,Annuity,2020-11-08,1954-07-16,66,M,Hazardous,864116,4128,Lapsed,N,Urban
+POL000805,Endowment,2021-12-21,1960-05-24,61,F,Semi-skilled,917735,5042,Lapsed,Y,Rural
+POL000806,Annuity,2022-11-04,1955-07-15,67,F,Professional,373337,5208,Lapsed,N,Suburban
+POL000807,Annuity,2020-06-29,1957-06-04,63,M,Semi-skilled,442433,7483,Active,Y,Urban
+POL000808,Endowment,2021-12-28,1996-05-27,25,M,Hazardous,786877,9075,Lapsed,Y,Suburban
+POL000809,Whole Life,2023-04-29,1978-03-29,45,F,Administrative,283623,1004,Lapsed,N,Rural
+POL000810,Term Life,2022-06-12,1992-01-18,30,F,Administrative,650679,922,Active,Y,Urban
+POL000811,Term Life,2020-06-16,1972-01-02,48,F,Professional,266315,7550,Lapsed,Y,Suburban
+POL000812,Term Life,2023-01-13,1987-01-07,36,M,Administrative,935150,7798,Active,N,Suburban
+POL000813,Term Life,2021-08-06,1960-05-01,61,M,Hazardous,247095,7644,Lapsed,Y,Urban
+POL000814,Universal Life,2023-11-16,1973-07-21,50,M,Hazardous,659754,6051,Paid-up,N,Rural
+POL000815,Annuity,2023-12-06,1963-08-28,60,M,Semi-skilled,233738,7654,Paid-up,Y,Suburban
+POL000816,Annuity,2020-09-11,1976-08-04,44,F,Hazardous,190600,5156,Active,Y,Suburban
+POL000817,Term Life,2020-10-09,1997-06-08,23,M,Skilled,150685,6007,Lapsed,Y,Rural
+POL000818,Whole Life,2021-01-08,1995-04-02,25,F,Skilled,875184,1318,Paid-up,Y,Urban
+POL000819,Term Life,2020-07-14,1984-01-31,36,F,Administrative,492631,1649,Active,Y,Rural
+POL000820,Endowment,2023-09-13,2005-04-12,18,M,Administrative,776419,601,Paid-up,Y,Suburban
+POL000821,Whole Life,2023-10-13,1995-10-01,28,F,Professional,393047,9423,Paid-up,Y,Urban
+POL000822,Universal Life,2022-04-04,1993-08-29,28,F,Administrative,921588,5393,Lapsed,Y,Suburban
+POL000823,Annuity,2021-02-17,1986-12-20,34,M,Skilled,719036,8184,Paid-up,N,Urban
+POL000824,Endowment,2021-09-18,2001-12-23,19,F,Professional,444732,6001,Surrendered,N,Urban
+POL000825,Annuity,2022-04-03,1981-10-05,40,M,Semi-skilled,212325,3519,Lapsed,Y,Suburban
+POL000826,Whole Life,2022-08-31,1993-05-09,29,F,Skilled,154588,992,Surrendered,N,Rural
+POL000827,Term Life,2021-01-14,1962-10-22,58,M,Administrative,292595,7830,Active,N,Suburban
+POL000828,Annuity,2022-08-09,2002-12-21,19,F,Hazardous,891971,8893,Paid-up,Y,Urban
+POL000829,Universal Life,2023-11-08,1979-05-09,44,M,Hazardous,283279,7477,Paid-up,Y,Rural
+POL000830,Endowment,2021-01-25,1974-07-04,46,M,Professional,206449,863,Paid-up,N,Rural
+POL000831,Term Life,2021-10-25,1985-05-02,36,F,Administrative,651015,3985,Lapsed,N,Suburban
+POL000832,Annuity,2023-03-29,1997-09-26,25,M,Semi-skilled,708958,1188,Surrendered,N,Urban
+POL000833,Universal Life,2021-05-13,2001-02-07,20,M,Semi-skilled,223359,9619,Lapsed,Y,Suburban
+POL000834,Universal Life,2021-03-03,1971-05-29,49,M,Semi-skilled,534032,1356,Active,N,Suburban
+POL000835,Endowment,2021-09-13,1986-03-03,35,F,Skilled,760714,9778,Surrendered,Y,Rural
+POL000836,Annuity,2021-02-17,1975-06-27,45,F,Skilled,366471,5282,Surrendered,N,Rural
+POL000837,Endowment,2022-03-13,1954-08-22,67,F,Administrative,624479,2599,Surrendered,Y,Urban
+POL000838,Endowment,2022-11-18,1996-10-17,26,M,Hazardous,311059,8765,Surrendered,N,Urban
+POL000839,Term Life,2020-09-18,1986-11-29,33,F,Semi-skilled,327895,5851,Lapsed,Y,Urban
+POL000840,Endowment,2023-03-14,1998-01-15,25,M,Administrative,176952,2442,Lapsed,Y,Rural
+POL000841,Annuity,2020-09-04,1974-12-19,45,M,Administrative,574354,4144,Active,Y,Urban
+POL000842,Universal Life,2020-01-15,1963-01-29,57,M,Hazardous,213297,1258,Lapsed,N,Rural
+POL000843,Term Life,2020-05-20,1955-03-19,65,F,Semi-skilled,944601,2189,Paid-up,N,Suburban
+POL000844,Term Life,2021-03-22,1961-08-14,59,M,Administrative,575468,4848,Paid-up,Y,Urban
+POL000845,Term Life,2021-05-30,1987-08-09,33,F,Hazardous,72649,6713,Active,Y,Suburban
+POL000846,Endowment,2020-07-14,1957-10-06,62,F,Hazardous,751502,4142,Active,N,Urban
+POL000847,Universal Life,2021-12-12,1961-06-04,60,F,Skilled,189258,7685,Paid-up,Y,Rural
+POL000848,Universal Life,2023-10-10,2003-03-19,20,M,Professional,955691,3370,Surrendered,Y,Urban
+POL000849,Annuity,2023-03-11,1995-02-02,28,M,Administrative,208735,3876,Surrendered,N,Urban
+POL000850,Universal Life,2020-12-09,1987-04-27,33,F,Professional,361388,5938,Paid-up,Y,Suburban
+POL000851,Endowment,2021-03-03,1985-07-09,35,F,Skilled,918949,7393,Active,Y,Suburban
+POL000852,Universal Life,2020-05-21,1957-04-12,63,M,Hazardous,839315,2590,Lapsed,Y,Rural
+POL000853,Whole Life,2022-07-13,1967-11-24,54,F,Administrative,635491,6375,Surrendered,Y,Rural
+POL000854,Term Life,2023-05-18,1986-08-26,36,M,Semi-skilled,671639,9806,Paid-up,N,Suburban
+POL000855,Universal Life,2023-03-05,1981-02-22,42,F,Semi-skilled,742210,6257,Paid-up,Y,Suburban
+POL000856,Universal Life,2023-05-05,2001-11-07,21,M,Professional,231738,3287,Surrendered,N,Rural
+POL000857,Annuity,2020-05-09,1951-08-13,68,F,Hazardous,223805,2303,Active,Y,Urban
+POL000858,Annuity,2023-03-09,1980-04-28,42,M,Administrative,810721,3423,Active,N,Rural
+POL000859,Annuity,2021-09-17,1980-10-13,40,F,Professional,723289,1905,Paid-up,Y,Suburban
+POL000860,Annuity,2021-05-26,2002-01-19,19,F,Hazardous,654078,8248,Paid-up,N,Urban
+POL000861,Annuity,2022-04-21,1984-03-29,38,F,Professional,676127,1045,Paid-up,N,Urban
+POL000862,Annuity,2021-02-23,1996-03-24,24,F,Hazardous,79745,5153,Active,Y,Suburban
+POL000863,Endowment,2021-04-10,1992-04-19,28,F,Skilled,672919,9325,Paid-up,N,Urban
+POL000864,Universal Life,2021-02-22,1963-05-18,57,M,Hazardous,587503,1302,Lapsed,Y,Rural
+POL000865,Annuity,2022-05-23,1982-01-18,40,M,Hazardous,631021,9898,Paid-up,Y,Urban
+POL000866,Annuity,2021-12-25,1978-05-27,43,F,Hazardous,693094,7052,Paid-up,N,Rural
+POL000867,Term Life,2022-04-20,1964-11-21,57,F,Administrative,902912,5261,Paid-up,N,Rural
+POL000868,Term Life,2022-12-11,2003-01-07,19,M,Semi-skilled,424451,6687,Surrendered,N,Suburban
+POL000869,Term Life,2023-07-19,1955-05-27,68,M,Professional,331811,2137,Lapsed,N,Rural
+POL000870,Whole Life,2021-01-20,1953-08-23,67,M,Hazardous,666652,5365,Paid-up,Y,Rural
+POL000871,Endowment,2023-09-29,2000-11-29,22,M,Skilled,119690,6780,Surrendered,Y,Suburban
+POL000872,Universal Life,2023-09-10,1984-12-06,38,F,Hazardous,627163,6550,Active,N,Rural
+POL000873,Whole Life,2020-06-16,1960-12-02,59,M,Semi-skilled,195881,8079,Surrendered,N,Urban
+POL000874,Endowment,2020-05-07,1975-12-15,44,M,Semi-skilled,921073,3600,Paid-up,N,Rural
+POL000875,Universal Life,2021-12-21,1953-06-09,68,M,Professional,569790,6034,Active,N,Suburban
+POL000876,Universal Life,2023-08-03,1990-12-06,32,F,Hazardous,532300,8744,Lapsed,Y,Suburban
+POL000877,Term Life,2020-05-10,1954-09-12,65,M,Semi-skilled,336608,6457,Active,N,Suburban
+POL000878,Endowment,2023-02-07,1961-09-25,61,M,Skilled,143058,2542,Lapsed,N,Rural
+POL000879,Whole Life,2023-01-08,1986-09-27,36,F,Professional,802734,8847,Lapsed,Y,Urban
+POL000880,Whole Life,2021-07-23,1978-04-06,43,M,Administrative,486211,2734,Paid-up,N,Rural
+POL000881,Annuity,2022-12-14,1986-11-21,36,F,Hazardous,129169,7212,Paid-up,Y,Suburban
+POL000882,Term Life,2020-05-27,1996-06-05,23,M,Administrative,566715,6429,Paid-up,Y,Rural
+POL000883,Endowment,2022-11-30,1977-01-15,45,F,Professional,524605,5883,Surrendered,Y,Suburban
+POL000884,Whole Life,2022-01-22,1990-11-17,31,M,Hazardous,984320,1993,Active,Y,Rural
+POL000885,Annuity,2021-06-05,1954-09-17,66,M,Administrative,337386,3161,Lapsed,N,Urban
+POL000886,Annuity,2020-08-14,1963-08-24,57,F,Administrative,188878,1128,Surrendered,Y,Rural
+POL000887,Universal Life,2020-05-29,1959-03-12,61,M,Skilled,521187,9431,Lapsed,N,Rural
+POL000888,Annuity,2021-09-03,1994-04-15,27,F,Semi-skilled,995260,7869,Lapsed,N,Rural
+POL000889,Universal Life,2022-01-12,1993-05-11,28,F,Hazardous,52849,9214,Lapsed,N,Urban
+POL000890,Term Life,2021-08-14,1963-03-12,58,F,Semi-skilled,451268,4711,Paid-up,N,Rural
+POL000891,Universal Life,2020-04-16,1967-11-02,52,M,Semi-skilled,724621,8255,Active,N,Suburban
+POL000892,Whole Life,2022-04-09,1990-03-01,32,F,Professional,569852,2151,Lapsed,N,Urban
+POL000893,Whole Life,2020-06-22,1953-02-07,67,F,Professional,961133,5628,Lapsed,Y,Urban
+POL000894,Annuity,2022-02-27,1980-04-18,41,M,Skilled,503141,1992,Surrendered,N,Rural
+POL000895,Endowment,2021-09-29,1990-12-13,30,F,Skilled,894856,5702,Lapsed,N,Urban
+POL000896,Universal Life,2021-03-18,1992-04-19,28,F,Administrative,761304,2360,Active,Y,Rural
+POL000897,Term Life,2020-04-20,1989-02-26,31,M,Administrative,303223,6126,Active,Y,Urban
+POL000898,Universal Life,2023-09-25,1958-06-17,65,M,Semi-skilled,709049,3986,Paid-up,Y,Rural
+POL000899,Annuity,2022-06-09,1995-05-16,27,M,Administrative,183660,6607,Active,Y,Urban
+POL000900,Universal Life,2023-04-28,1955-12-30,67,F,Skilled,564497,4525,Surrendered,Y,Urban
+POL000901,Universal Life,2023-01-29,1953-07-29,69,F,Hazardous,548702,8564,Surrendered,N,Suburban
+POL000902,Endowment,2022-05-13,1970-10-09,51,M,Semi-skilled,649363,6897,Paid-up,Y,Urban
+POL000903,Term Life,2023-01-14,1964-12-20,58,M,Administrative,947492,3524,Active,N,Urban
+POL000904,Endowment,2022-01-07,1957-03-06,64,F,Skilled,214136,670,Lapsed,N,Rural
+POL000905,Term Life,2020-08-19,1953-06-21,67,M,Professional,596171,1174,Surrendered,Y,Suburban
+POL000906,Annuity,2021-01-09,1991-05-14,29,F,Hazardous,847200,4867,Paid-up,N,Urban
+POL000907,Term Life,2020-12-04,1974-01-24,46,M,Professional,193608,4686,Active,N,Urban
+POL000908,Term Life,2020-11-21,1950-12-13,69,F,Professional,500029,998,Surrendered,Y,Urban
+POL000909,Term Life,2022-05-07,1971-02-18,51,F,Semi-skilled,492306,7017,Active,N,Rural
+POL000910,Endowment,2021-12-01,1963-10-11,58,M,Semi-skilled,653679,691,Active,N,Suburban
+POL000911,Annuity,2022-10-22,1991-10-14,31,M,Skilled,867548,5637,Paid-up,Y,Urban
+POL000912,Annuity,2020-01-14,1987-04-19,32,F,Hazardous,754750,1659,Paid-up,Y,Suburban
+POL000913,Universal Life,2020-12-21,1954-04-27,66,F,Professional,724309,4231,Paid-up,N,Suburban
+POL000914,Term Life,2021-04-26,1975-08-10,45,F,Professional,256151,7573,Lapsed,N,Urban
+POL000915,Universal Life,2021-03-19,1964-06-22,56,M,Skilled,535828,9583,Lapsed,N,Urban
+POL000916,Annuity,2021-08-06,1993-05-21,28,M,Skilled,483737,6376,Active,N,Urban
+POL000917,Endowment,2023-12-27,1987-08-05,36,M,Professional,672051,7890,Lapsed,Y,Urban
+POL000918,Annuity,2021-05-07,1984-08-26,36,M,Skilled,115403,9246,Active,N,Suburban
+POL000919,Whole Life,2023-01-14,1988-08-10,34,M,Professional,560437,9342,Surrendered,Y,Suburban
+POL000920,Whole Life,2023-08-23,1959-08-09,64,M,Semi-skilled,844239,8394,Active,Y,Suburban
+POL000921,Annuity,2020-05-29,1970-07-17,49,F,Administrative,173659,7358,Paid-up,Y,Urban
+POL000922,Whole Life,2021-10-30,2000-05-17,21,F,Semi-skilled,410239,9058,Paid-up,N,Urban
+POL000923,Endowment,2021-06-04,1955-04-07,66,M,Hazardous,900461,903,Lapsed,Y,Urban
+POL000924,Endowment,2022-10-30,1986-09-30,36,M,Administrative,319710,5136,Surrendered,Y,Urban
+POL000925,Whole Life,2023-11-22,1980-10-02,43,M,Professional,850632,6074,Surrendered,Y,Suburban
+POL000926,Whole Life,2022-01-17,1973-04-06,48,F,Skilled,174380,605,Active,Y,Urban
+POL000927,Universal Life,2020-09-15,1991-05-13,29,F,Skilled,430535,3592,Lapsed,Y,Suburban
+POL000928,Annuity,2022-03-20,1994-12-04,27,F,Administrative,689392,7774,Paid-up,Y,Urban
+POL000929,Term Life,2022-02-16,1980-10-21,41,M,Professional,56867,8170,Surrendered,N,Rural
+POL000930,Term Life,2023-01-29,1969-09-08,53,M,Semi-skilled,255311,4252,Paid-up,Y,Suburban
+POL000931,Universal Life,2021-03-29,1999-01-08,22,F,Hazardous,839338,9273,Active,N,Urban
+POL000932,Annuity,2023-10-18,1964-02-25,59,M,Hazardous,630685,3189,Lapsed,Y,Rural
+POL000933,Whole Life,2020-12-30,1972-11-15,48,F,Skilled,291224,7909,Active,Y,Rural
+POL000934,Endowment,2022-04-15,1978-12-20,43,M,Administrative,346720,8858,Paid-up,Y,Urban
+POL000935,Term Life,2021-10-01,1968-06-18,53,F,Skilled,164934,4893,Lapsed,N,Rural
+POL000936,Whole Life,2021-03-27,1985-04-22,35,M,Administrative,321434,1649,Active,N,Urban
+POL000937,Endowment,2023-10-08,1961-06-19,62,F,Hazardous,870175,4217,Lapsed,Y,Urban
+POL000938,Whole Life,2023-09-09,1981-10-26,41,F,Skilled,331279,6425,Surrendered,Y,Urban
+POL000939,Annuity,2020-06-27,2002-04-09,18,F,Semi-skilled,758990,9732,Lapsed,Y,Rural
+POL000940,Term Life,2020-10-19,1985-07-18,35,F,Skilled,592491,4087,Lapsed,Y,Urban
+POL000941,Endowment,2022-12-27,1978-04-16,44,M,Professional,518596,5782,Surrendered,N,Rural
+POL000942,Universal Life,2022-06-28,1953-09-05,68,F,Professional,282392,5160,Active,Y,Suburban
+POL000943,Universal Life,2022-02-10,1999-06-05,22,M,Administrative,305694,2933,Active,Y,Suburban
+POL000944,Term Life,2021-04-09,1962-12-12,58,M,Hazardous,993040,4379,Active,Y,Rural
+POL000945,Endowment,2020-06-13,1965-07-31,54,M,Hazardous,557014,8372,Paid-up,Y,Rural
+POL000946,Whole Life,2021-09-23,1972-05-05,49,M,Professional,777997,9974,Surrendered,Y,Rural
+POL000947,Universal Life,2022-05-15,1968-05-18,54,F,Skilled,865750,6982,Paid-up,Y,Suburban
+POL000948,Endowment,2021-06-09,1958-07-18,62,F,Skilled,770174,691,Paid-up,N,Rural
+POL000949,Term Life,2023-12-29,1975-12-17,48,F,Skilled,300423,5371,Lapsed,N,Rural
+POL000950,Endowment,2023-06-13,1991-06-10,32,M,Skilled,634365,9507,Surrendered,N,Urban
+POL000951,Universal Life,2023-03-15,1973-09-15,49,M,Professional,616182,6137,Lapsed,N,Rural
+POL000952,Term Life,2021-07-15,1981-08-15,39,M,Administrative,345143,1524,Lapsed,Y,Rural
+POL000953,Universal Life,2021-02-22,1982-06-04,38,M,Skilled,966209,6962,Paid-up,N,Urban
+POL000954,Universal Life,2021-02-07,1973-08-23,47,F,Professional,420906,1353,Surrendered,N,Rural
+POL000955,Whole Life,2022-12-13,1979-12-31,42,M,Skilled,166021,6835,Active,N,Rural
+POL000956,Whole Life,2023-08-06,1986-08-17,36,F,Professional,182984,2538,Active,Y,Suburban
+POL000957,Term Life,2023-11-02,1986-08-18,37,F,Semi-skilled,943864,3833,Active,Y,Suburban
+POL000958,Annuity,2021-08-09,1964-12-31,56,M,Administrative,552846,9705,Paid-up,N,Urban
+POL000959,Annuity,2021-03-09,1962-10-28,58,F,Hazardous,742233,2603,Lapsed,Y,Suburban
+POL000960,Endowment,2023-05-02,2000-03-29,23,F,Hazardous,228414,3263,Active,N,Urban
+POL000961,Whole Life,2023-05-28,1987-03-11,36,F,Hazardous,221396,3462,Paid-up,N,Rural
+POL000962,Term Life,2023-09-29,1982-11-23,40,M,Skilled,84576,9453,Active,N,Urban
+POL000963,Endowment,2021-05-31,1964-11-06,56,F,Skilled,722963,5828,Paid-up,N,Suburban
+POL000964,Whole Life,2021-01-24,1960-01-02,61,F,Professional,586907,5289,Active,N,Suburban
+POL000965,Endowment,2021-02-20,2000-01-26,21,M,Administrative,726360,7208,Paid-up,Y,Rural
+POL000966,Universal Life,2020-05-16,1993-07-11,26,M,Semi-skilled,320755,7420,Active,Y,Urban
+POL000967,Endowment,2022-09-18,1959-06-08,63,F,Hazardous,252534,8308,Surrendered,Y,Suburban
+POL000968,Endowment,2023-08-29,1994-12-04,28,M,Professional,520900,6514,Lapsed,Y,Suburban
+POL000969,Whole Life,2023-09-29,1975-10-18,47,F,Administrative,596108,9403,Paid-up,N,Suburban
+POL000970,Endowment,2023-12-25,1964-04-08,59,F,Skilled,988348,2128,Lapsed,Y,Urban
+POL000971,Whole Life,2021-05-10,1957-11-01,63,F,Semi-skilled,592005,8631,Active,Y,Urban
+POL000972,Endowment,2020-09-24,1950-10-15,69,M,Skilled,831659,4135,Lapsed,N,Rural
+POL000973,Annuity,2022-04-13,1965-06-12,56,M,Hazardous,486336,7056,Paid-up,Y,Suburban
+POL000974,Endowment,2022-02-07,1973-09-01,48,F,Administrative,900659,2192,Lapsed,N,Urban
+POL000975,Term Life,2022-08-07,1954-02-27,68,F,Administrative,996543,7449,Active,N,Urban
+POL000976,Whole Life,2020-10-06,1980-01-15,40,M,Semi-skilled,190803,3038,Active,N,Urban
+POL000977,Universal Life,2020-01-28,1982-07-23,37,M,Hazardous,153563,2275,Lapsed,Y,Rural
+POL000978,Universal Life,2023-09-06,1974-01-10,49,M,Administrative,115911,524,Paid-up,N,Rural
+POL000979,Endowment,2023-08-12,1975-04-14,48,F,Hazardous,738592,9874,Active,Y,Rural
+POL000980,Term Life,2022-04-21,1997-12-03,24,F,Administrative,544335,5719,Active,Y,Urban
+POL000981,Universal Life,2021-11-27,1993-05-26,28,M,Professional,182974,9549,Lapsed,Y,Urban
+POL000982,Endowment,2023-11-08,1958-07-19,65,F,Administrative,425193,2625,Lapsed,Y,Urban
+POL000983,Term Life,2023-01-08,1978-11-29,44,F,Hazardous,785245,8399,Surrendered,Y,Urban
+POL000984,Term Life,2022-08-06,1968-06-22,54,M,Administrative,881992,4943,Paid-up,Y,Urban
+POL000985,Endowment,2022-03-26,1977-06-27,44,F,Hazardous,765425,6502,Active,N,Urban
+POL000986,Endowment,2021-09-13,1968-01-08,53,M,Professional,240694,6941,Lapsed,N,Urban
+POL000987,Whole Life,2021-03-17,1967-12-11,53,F,Skilled,645634,8953,Paid-up,Y,Suburban
+POL000988,Endowment,2021-10-16,1987-05-11,34,M,Semi-skilled,312408,771,Surrendered,N,Rural
+POL000989,Term Life,2022-01-30,1972-11-21,49,M,Hazardous,483647,5359,Active,Y,Suburban
+POL000990,Whole Life,2023-07-15,1967-11-04,55,M,Semi-skilled,584864,4842,Active,N,Urban
+POL000991,Endowment,2020-06-19,1951-10-21,68,F,Professional,607554,9032,Surrendered,N,Urban
+POL000992,Annuity,2022-09-23,1996-11-23,25,M,Skilled,55611,3787,Lapsed,N,Rural
+POL000993,Term Life,2020-03-17,1952-01-30,68,F,Skilled,891645,1368,Active,Y,Urban
+POL000994,Whole Life,2023-12-16,1988-06-10,35,M,Semi-skilled,256684,3702,Lapsed,N,Rural
+POL000995,Whole Life,2020-12-26,1957-10-02,63,F,Professional,998054,8285,Active,N,Rural
+POL000996,Term Life,2021-09-09,1995-11-10,25,M,Hazardous,818565,831,Paid-up,N,Suburban
+POL000997,Whole Life,2022-03-20,2001-03-01,21,F,Professional,762367,8599,Paid-up,Y,Urban
+POL000998,Whole Life,2022-12-05,1955-12-25,66,F,Administrative,351197,6046,Lapsed,N,Rural
+POL000999,Universal Life,2022-07-10,1996-12-30,25,M,Skilled,935115,4131,Paid-up,N,Suburban
+POL001000,Endowment,2023-07-28,1968-09-04,54,F,Skilled,377853,8600,Lapsed,N,Urban

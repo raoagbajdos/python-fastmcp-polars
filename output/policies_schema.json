@@ -1,0 +1,147 @@
+{
+  "sheet_name": "Policies",
+  "shape": [
+    1000,
+    12
+  ],
+  "columns": [
+    "Policy_ID",
+    "Policy_Type",
+    "Issue_Date",
+    "Birth_Date",
+    "Age_at_Issue",
+    "Gender",
+    "Occupation_Class",
+    "Face_Amount",
+    "Annual_Premium",
+    "Policy_Status",
+    "Smoker_Status",
+    "Territory"
+  ],
+  "dtypes": {
+    "Policy_ID": "String",
+    "Policy_Type": "String",
+    "Issue_Date": "String",
+    "Birth_Date": "String",
+    "Age_at_Issue": "Int64",
+    "Gender": "String",
+    "Occupation_Class": "String",
+    "Face_Amount": "Int64",
+    "Annual_Premium": "Int64",
+    "Policy_Status": "String",
+    "Smoker_Status": "String",
+    "Territory": "String"
+  },
+  "sample_data": [
+    {
+      "Policy_ID": "POL000001",
+      "Policy_Type": "Universal Life",
+      "Issue_Date": "2022-07-27",
+      "Birth_Date": "1981-01-20",
+      "Age_at_Issue": 41,
+      "Gender": "M",
+      "Occupation_Class": "Professional",
+      "Face_Amount": 561121,
+      "Annual_Premium": 6779,
+      "Policy_Status": "Active",
+      "Smoker_Status": "N",
+      "Territory": "Rural"
+    },
+    {
+      "Policy_ID": "POL000002",
+      "Policy_Type": "Universal Life",
+      "Issue_Date": "2022-01-01",
+      "Birth_Date": "1970-04-11",
+      "Age_at_Issue": 51,
+      "Gender": "F",
+      "Occupation_Class": "Skilled",
+      "Face_Amount": 197659,
+      "Annual_Premium": 3875,
+      "Policy_Status": "Lapsed",
+      "Smoker_Status": "N",
+      "Territory": "Suburban"
+    },
+    {
+      "Policy_ID": "POL000003",
+      "Policy_Type": "Annuity",
+      "Issue_Date": "2020-11-10",
+      "Birth_Date": "1995-12-27",
+      "Age_at_Issue": 24,
+      "Gender": "F",
+      "Occupation_Class": "Professional",
+      "Face_Amount": 671391,
+      "Annual_Premium": 4513,
+      "Policy_Status": "Paid-up",
+      "Smoker_Status": "N",
+      "Territory": "Rural"
+    }
+  ],
+  "statistics": {
+    "Policy_ID": {
+      "type": "String",
+      "unique_count": 1000,
+      "null_count": 0
+    },
+    "Policy_Type": {
+      "type": "String",
+      "unique_count": 5,
+      "null_count": 0
+    },
+    "Issue_Date": {
+      "type": "String",
+      "unique_count": 711,
+      "null_count": 0
+    },
+    "Birth_Date": {
+      "type": "String",
+      "unique_count": 976,
+      "null_count": 0
+    },
+    "Age_at_Issue": {
+      "type": "Int64",
+      "min": 18,
+      "max": 69,
+      "mean": 43.824,
+      "null_count": 0
+    },
+    "Gender": {
+      "type": "String",
+      "unique_count": 2,
+      "null_count": 0
+    },
+    "Occupation_Class": {
+      "type": "String",
+      "unique_count": 5,
+      "null_count": 0
+    },
+    "Face_Amount": {
+      "type": "Int64",
+      "min": 50724,
+      "max": 999887,
+      "mean": 530254.028,
+      "null_count": 0
+    },
+    "Annual_Premium": {
+      "type": "Int64",
+      "min": 500,
+      "max": 9998,
+      "mean": 5277.941,
+      "null_count": 0
+    },
+    "Policy_Status": {
+      "type": "String",
+      "unique_count": 4,
+      "null_count": 0
+    },
+    "Smoker_Status": {
+      "type": "String",
+      "unique_count": 2,
+      "null_count": 0
+    },
+    "Territory": {
+      "type": "String",
+      "unique_count": 3,
+      "null_count": 0
+    }
+  }
+}

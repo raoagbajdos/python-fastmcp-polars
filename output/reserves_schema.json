@@ -1,0 +1,123 @@
+{
+  "sheet_name": "Reserves",
+  "shape": [
+    25,
+    9
+  ],
+  "columns": [
+    "Product_Type",
+    "Valuation_Year",
+    "Policy_Reserves",
+    "Claim_Reserves",
+    "IBNR_Reserves",
+    "Total_Reserves",
+    "Reserve_Method",
+    "Interest_Rate",
+    "Mortality_Basis"
+  ],
+  "dtypes": {
+    "Product_Type": "String",
+    "Valuation_Year": "Int64",
+    "Policy_Reserves": "Int64",
+    "Claim_Reserves": "Int64",
+    "IBNR_Reserves": "Int64",
+    "Total_Reserves": "Int64",
+    "Reserve_Method": "String",
+    "Interest_Rate": "Float64",
+    "Mortality_Basis": "String"
+  },
+  "sample_data": [
+    {
+      "Product_Type": "Term Life",
+      "Valuation_Year": 2020,
+      "Policy_Reserves": 53594464,
+      "Claim_Reserves": 6909381,
+      "IBNR_Reserves": 1502799,
+      "Total_Reserves": 62006644,
+      "Reserve_Method": "Net Premium",
+      "Interest_Rate": 0.0535,
+      "Mortality_Basis": "CSO 2017"
+    },
+    {
+      "Product_Type": "Term Life",
+      "Valuation_Year": 2021,
+      "Policy_Reserves": 20409593,
+      "Claim_Reserves": 1658250,
+      "IBNR_Reserves": 1529172,
+      "Total_Reserves": 23597015,
+      "Reserve_Method": "Net Premium",
+      "Interest_Rate": 0.0211,
+      "Mortality_Basis": "CSO 2001"
+    },
+    {
+      "Product_Type": "Term Life",
+      "Valuation_Year": 2022,
+      "Policy_Reserves": 93246920,
+      "Claim_Reserves": 11651612,
+      "IBNR_Reserves": 5082467,
+      "Total_Reserves": 109980999,
+      "Reserve_Method": "Modified Reserve",
+      "Interest_Rate": 0.0383,
+      "Mortality_Basis": "CSO 2017"
+    }
+  ],
+  "statistics": {
+    "Product_Type": {
+      "type": "String",
+      "unique_count": 5,
+      "null_count": 0
+    },
+    "Valuation_Year": {
+      "type": "Int64",
+      "min": 2020,
+      "max": 2024,
+      "mean": 2022.0,
+      "null_count": 0
+    },
+    "Policy_Reserves": {
+      "type": "Int64",
+      "min": 11505832,
+      "max": 97665986,
+      "mean": 58283069.48,
+      "null_count": 0
+    },
+    "Claim_Reserves": {
+      "type": "Int64",
+      "min": 995320,
+      "max": 14294962,
+      "mean": 6731261.44,
+      "null_count": 0
+    },
+    "IBNR_Reserves": {
+      "type": "Int64",
+      "min": 457252,
+      "max": 6262063,
+      "mean": 3057799.24,
+      "null_count": 0
+    },
+    "Total_Reserves": {
+      "type": "Int64",
+      "min": 13119229,
+      "max": 115395279,
+      "mean": 68072130.16,
+      "null_count": 0
+    },
+    "Reserve_Method": {
+      "type": "String",
+      "unique_count": 3,
+      "null_count": 0
+    },
+    "Interest_Rate": {
+      "type": "Float64",
+      "min": 0.0211,
+      "max": 0.0599,
+      "mean": 0.043232,
+      "null_count": 0
+    },
+    "Mortality_Basis": {
+      "type": "String",
+      "unique_count": 3,
+      "null_count": 0
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "sheet_name": "Claims",
+  "shape": [
+    150,
+    9
+  ],
+  "columns": [
+    "Claim_ID",
+    "Policy_ID",
+    "Claim_Type",
+    "Claim_Date",
+    "Notification_Date",
+    "Claim_Amount",
+    "Claim_Status",
+    "Investigation_Days",
+    "Settlement_Amount"
+  ],
+  "dtypes": {
+    "Claim_ID": "String",
+    "Policy_ID": "String",
+    "Claim_Type": "String",
+    "Claim_Date": "String",
+    "Notification_Date": "String",
+    "Claim_Amount": "Int64",
+    "Claim_Status": "String",
+    "Investigation_Days": "Int64",
+    "Settlement_Amount": "Int64"
+  },
+  "sample_data": [
+    {
+      "Claim_ID": "CLM000001",
+      "Policy_ID": "POL000653",
+      "Claim_Type": "Disability",
+      "Claim_Date": "2021-08-13",
+      "Notification_Date": "2021-08-26",
+      "Claim_Amount": 171127,
+      "Claim_Status": "Pending",
+      "Investigation_Days": 69,
+      "Settlement_Amount": 304774
+    },
+    {
+      "Claim_ID": "CLM000002",
+      "Policy_ID": "POL000614",
+      "Claim_Type": "Critical Illness",
+      "Claim_Date": "2022-10-27",
+      "Notification_Date": "2022-11-09",
+      "Claim_Amount": 151975,
+      "Claim_Status": "Denied",
+      "Investigation_Days": 162,
+      "Settlement_Amount": 67488
+    },
+    {
+      "Claim_ID": "CLM000003",
+      "Policy_ID": "POL000496",
+      "Claim_Type": "Death",
+      "Claim_Date": "2023-04-22",
+      "Notification_Date": "2023-05-13",
+      "Claim_Amount": 285119,
+      "Claim_Status": "Pending",
+      "Investigation_Days": 90,
+      "Settlement_Amount": 277051
+    }
+  ],
+  "statistics": {
+    "Claim_ID": {
+      "type": "String",
+      "unique_count": 150,
+      "null_count": 0
+    },
+    "Policy_ID": {
+      "type": "String",
+      "unique_count": 140,
+      "null_count": 0
+    },
+    "Claim_Type": {
+      "type": "String",
+      "unique_count": 5,
+      "null_count": 0
+    },
+    "Claim_Date": {
+      "type": "String",
+      "unique_count": 147,
+      "null_count": 0
+    },
+    "Notification_Date": {
+      "type": "String",
+      "unique_count": 142,
+      "null_count": 0
+    },
+    "Claim_Amount": {
+      "type": "Int64",
+      "min": 10427,
+      "max": 497269,
+      "mean": 267383.73333333334,
+      "null_count": 0
+    },
+    "Claim_Status": {
+      "type": "String",
+      "unique_count": 4,
+      "null_count": 0
+    },
+    "Investigation_Days": {
+      "type": "Int64",
+      "min": 1,
+      "max": 174,
+      "mean": 92.44666666666667,
+      "null_count": 0
+    },
+    "Settlement_Amount": {
+      "type": "Int64",
+      "min": 0,
+      "max": 499154,
+      "mean": 183211.08,
+      "null_count": 0
+    }
+  }
+}
